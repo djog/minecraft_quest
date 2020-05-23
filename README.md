@@ -145,7 +145,7 @@ door te stemmen op hun favoriete opties.
 
 ### Wat is het maximaal aantal spelers?
 
-18.
+16.
 
 ### Ik heb geen Minecraft
 
