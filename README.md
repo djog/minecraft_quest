@@ -145,7 +145,7 @@ door te stemmen op hun favoriete opties.
 
 ### Wat is het maximaal aantal spelers?
 
-20, inclusief de scheidsrechter.
+18.
 
 ### Ik heb geen Minecraft
 
@@ -155,6 +155,11 @@ Helaas pindakaas :+1:
 
 Helaas pindakaas :+1:
 
+### Voor welke leeftijd is dit?
+
+Van 8 t/m 18 jaar.
+
 ### Ik wil meedoen, maar ik ben geen deelnemer van De Jonge Onderzoekers
 
 Geen probleem: als er plek is, ben je welkom om mee te doen.
+
