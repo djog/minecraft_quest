@@ -7,6 +7,20 @@ Minecraft wedstrijd.
  * Samenwerken
  * Gebruiken GitLab
 
+## Server
+
+ * `djog.hosthorde.net`
+
+## Scheidsrechters
+
+ * Joshua
+ * Richel
+
+## Moderators
+
+ * Daan, ook tijdens de game
+ * Rijk, tot de game begint
+
 ## Hoe
 
 ### Bijeenkomst
@@ -37,8 +51,7 @@ Op deze manier is het duidelijk wie bij welk team hoort.
 
 Aan het begin van elke les, wordt het doel bekend gemaakt.
 Het team dat het doel het eerste haalt, wint.
-Het verliezende team kiest een speler van het winnende team, 
-die dan overgeplaatst wordt.
+Het winnende team bepaalt welke speler overgeplaatst wordt.
 
 Op deze manier worden/blijven de teams even sterk.
 
@@ -50,6 +63,15 @@ De omgeving van dit dorp wordt de thuisbasis van het team.
 
 Op deze manier zijn de team duidelijk vindbaar en gescheiden.
 
+### Overplaatsing
+
+Als je overgeplaatst wordt, dan:
+
+  1. stop je alle spullen in een kist
+  2. loop je naar het spawning point
+  3. daar verander je je skin naar de kleur van het andere team
+  4. loop je naar je nieuwe basis
+
 ### Taken
 
 Ieder teamlid heeft altijd een taak tegelijk. 
@@ -60,8 +82,11 @@ Op deze manier is het duidelijk wie wat doet en kan het team goed samenwerken.
 
 ### Vergaderen
 
-In een vergadering worden de taken gekozen en verdeeld.
-Iedereen moet het eens zijn met de taak die hij/zij krijgt.
+Bij elke nieuwe quest worden eerst de taken verdeelt 
+en bepaalt wie er overgeplaatst wordt bij een verlies.
+
+Iedereen moet het eens zijn met de taak die hij/zij krijgt en
+met wie er overgeplaatst wordt.
 Een vergadering duurt minstens 10 minuten.
 Zijn de taken eerder verdeeld, dan mag je niet eerder beginnen.
 Je mag zelf weten hoe je vergadert. 
@@ -72,6 +97,7 @@ Je mag zelf weten hoe je vergadert.
  * Bepaal welke taken het belangrijkst zijn
  * Bepaal wie welke taak doet
  * Bepaal wat iemand moet doen als hij/zij een taak af heeft
+ * Bepaal wie overgeplaats wordt bij een verlies
 
 ### De Richel Supervergadering
 
@@ -89,6 +115,9 @@ Het team kan belissen om de Richel Supervergadering te gebruiken:
  * Ronde 3: spreek af, dat als je je taak af hebt, je dan de belangrijkste
    taak gaat helpen die nog niemand doet. Op deze manier hoeft
    niks meer besproken te worden en gebeuren de minder leuke taken toch
+ * Ronde 4: spreek af, dat de jongste die nog niet overgeplaatst is,
+   overgeplaats wordt. Op deze manier hoeft
+   niks meer besproken te worden.
 
 Dit is een manier die ervoor zorgt dat een vergadering kort is.
 
@@ -115,9 +144,11 @@ Een scheidsrechter is altijd ook een moderator.
 
 ### Hoe wordt de server ingesteld?
 
+ * Spigot versie 1.15.2
  * Survival mode
  * Easy mobs
  * Geen cheats
+ * Geen command blocks
 
 ### Waarom maar twee uur?
 
