@@ -209,7 +209,7 @@ Geen probleem: als er plek is, ben je welkom om mee te doen.
 
 Tijd       |Wie  |Wat
 -----------|-----|----------------------------------------------------
-09:00-09:15|D    |Maakt nieuwe wereld
+09:00-09:15|D    |Maakt nieuwe wereld, stelt server juist in
 09:15-09:30|D    |Maakt J en R moderator
 09:30-09:45|D,J,R|Kiezen goede wereld (dorpen moeten ver weg zijn)
 09:45-10:00|D,J,R|Deuren open op Discord
