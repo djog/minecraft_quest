@@ -198,3 +198,51 @@ Van 8 t/m 18 jaar.
 
 Geen probleem: als er plek is, ben je welkom om mee te doen.
 
+## Draaiboek
+
+ * D = Daan
+ * J = Joshau
+ * K = RijK 
+ * R = Richel
+ * S = Spelers
+
+### Voorbereiding
+
+Tijd       |Wie  |Wat
+-----------|-----|----------------------------------------------------
+09:00-09:15|D    |Maakt nieuwe wereld
+09:15-09:30|D    |Maakt J en R moderator
+09:30-09:45|D,J,R|Kiezen goede wereld (dorpen moeten ver weg zijn)
+09:45-10:00|D,J,R|Deuren open op Discord
+
+### Begin
+
+Tijd       |Wie  |Wat
+-----------|-----|----------------------------------------------------
+10:00-10:15|R    |Discord gesprek aan De Grote Tafel: wat is het doel?
+.          |D,J,S|Luisteren
+10:15-10:25|S    |Overleg van minimaal 10 minuten aan Tafel Blauw en Tafel Rood
+.          |J    |Luistert mee met blauw
+.          |R    |Luistert mee met rood
+.          |D    |Whitelist de spelers, maakt K moderator
+10:25-10:30|J    |Zet blauwe spelers in hun team
+.          |R    |Zet rode spelers in hun team
+10:30-     |S    |Spelen!
+           |D    |Regelt server dingen, overleg per PM met J+R 
+           |J    |Volgt het blauw team, overleg per PM met D+R
+.          |R    |Volgt het rode team, overleg per PM met D+J
+
+### Quest gehaald
+
+Tijd       |Wie  |Wat
+-----------|-----|----------------------------------------------------
+Begin      |R    |Discord gesprek aan De Grote Tafel: wat is de volgende quest?
+.          |D,J,S|Luisteren
++5 minuten |S    |Overleg van minimaal 10 minuten aan Tafel Blauw en Tafel Rood
+.          |J    |Luistert mee met blauw
+.          |R    |Luistert mee met rood
+.          |D/J/R|Overplaatsing speler
++15 minuten|J    |Volgt het blauw team
+.          |R    |Volgt het rode team
+
+
