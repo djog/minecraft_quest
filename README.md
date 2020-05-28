@@ -227,8 +227,8 @@ Tijd       |Wie  |Wat
 10:25-10:30|J    |Zet blauwe spelers in hun team
 .          |R    |Zet rode spelers in hun team
 10:30-     |S    |Spelen!
-           |D    |Regelt server dingen, overleg per PM met J+R 
-           |J    |Volgt het blauw team, overleg per PM met D+R
+.          |D    |Regelt server dingen, overleg per PM met J+R 
+.          |J    |Volgt het blauw team, overleg per PM met D+R
 .          |R    |Volgt het rode team, overleg per PM met D+J
 
 ### Quest gehaald
