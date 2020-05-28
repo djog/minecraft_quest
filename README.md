@@ -293,3 +293,28 @@ Commands voor de Minecraft Quest
 
 `/team join mod spelernaam`
 
+
+
+# Hoe maak je hoedjes voor de teams
+
+Credits naar Joshua en Youri voor dit
+
+## Hoedjes voor de teams
+
+1e command block, zet op REPEAT & ALWAYS ACTIVE: (Voor team rood)
+
+`/replaceitem entity @a[team=rood] armor.head minecraft:leather_helmet{display:{Name:"{\"text\":\"Team rood\"}",color:16711680},Unbreakable:1,HideFlags:63,Enchantments:[{id:"minecraft:binding_curse",lvl:1}]}`
+
+2e command block, verbonden met 1e, zet op CHAIN & ALWAYS ACTIVE: (Voor team blauw)
+
+`/replaceitem entity @a[team=blauw] armor.head minecraft:leather_helmet{display:{Name:"{\"text\":\"Team blauw\"}",color:65535},Unbreakable:1,HideFlags:63,Enchantments:[{id:"minecraft:binding_curse",lvl:1}]}`
+
+3e command block, verbonden met 2e, zet op CHAIN & ALWAYS ACTIVE: (Voor moderators)
+
+`/replaceitem entity @a[team=mod] armor.head minecraft:leather_helmet{display:{Name:"{\"text\":\"Moderator hoed\"}",color:49706},Unbreakable:1,HideFlags:63,Enchantments:[{id:"minecraft:binding_curse",lvl:1}]}`
+
+## Haal de hoedjes weg
+
+Doe met deze command of in een command block:
+
+`/replaceitem entity @a armor.head air`
