@@ -197,7 +197,7 @@ Van 8 t/m 18 jaar.
 
 Geen probleem: als er plek is, ben je welkom om mee te doen.
 
-## Draaiboek try-out zaterdag 30 mij
+## Draaiboek try-out zaterdag 30 Mei
 
  * D = Daan
  * J = Joshau
