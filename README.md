@@ -18,10 +18,9 @@ Minecraft wedstrijd.
 
 ## Moderators
 
- * Daan, ook tijdens de game
- * Kyrill, tot de game begint
- * Rijk, tot de game begint
- * Youri, tot de game begint
+ * Daan
+ * Joshua
+ * Richel
 
 ## Hoe
 
@@ -198,7 +197,7 @@ Van 8 t/m 18 jaar.
 
 Geen probleem: als er plek is, ben je welkom om mee te doen.
 
-## Draaiboek
+## Draaiboek try-out zaterdag 30 mij
 
  * D = Daan
  * J = Joshau
@@ -245,4 +244,42 @@ Begin      |R    |Discord gesprek aan De Grote Tafel: wat is de volgende quest?
 +15 minuten|J    |Volgt het blauw team
 .          |R    |Volgt het rode team
 
+
+
+
+# Hoe maak je Teams aan
+
+Commands voor de Minecraft Quest
+
+## Maak de teams aan
+
+`/team add blauw "Blauw"`
+
+`/team add rood "Rood"`
+
+`/team add mod "Moderator"`
+
+## Zet de kleuren van de teams
+
+`/team modify blauw color blue`
+
+`/team modify rood color red`
+
+`/team modify mod color green`
+
+## Voeg enventueel nog een prefix toe
+
+`/team modify blauw prefix "[B] "`
+
+`/team modify rood prefix "[R] "`
+
+`/team modify mod prefix "[MOD] "`
+
+## Voeg iemand aan het team toe
+
+`/team join blauw spelernaam`
+
+`/team join rood spelernaam`
+
+`/team join mod spelernaam`
 
