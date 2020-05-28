@@ -222,7 +222,7 @@ Tijd       |Wie  |Wat
 10:15-10:25|S    |Overleg van minimaal 10 minuten aan Tafel Blauw en Tafel Rood
 .          |J    |Luistert mee met blauw
 .          |R    |Luistert mee met rood
-.          |D    |Whitelist de spelers, maakt K moderator
+.          |D    |Whitelist de spelers
 10:25-10:30|J    |Zet blauwe spelers in hun team
 .          |R    |Zet rode spelers in hun team
 10:30-     |S    |Spelen!
