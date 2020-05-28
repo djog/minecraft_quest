@@ -243,8 +243,19 @@ Begin      |R    |Discord gesprek aan De Grote Tafel: wat is de volgende quest?
 +15 minuten|J    |Volgt het blauw team
 .          |R    |Volgt het rode team
 
+### Laatste uur
 
-
+Tijd       |Wie  |Wat
+-----------|-----|----------------------------------------------------
+Begin      |R    |Discord gesprek aan De Grote Tafel: wat kan er beter?
+.          |D,J,S|Luisteren
+.          |D,J,S|Luisteren
++5 minuten |S    |Overleg van minimaal 0 (nul!) minuten aan Tafel Blauw en Tafel Rood
+.          |J    |Luistert mee met blauw
+.          |R    |Luistert mee met rood
+.          |D/J/R|Overplaatsing speler
++15 minuten|D/J/R|Genieten en nabespeken
++60 minuten|D/J/R|Vrij
 
 # Hoe maak je Teams aan
 
