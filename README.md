@@ -19,7 +19,9 @@ Minecraft wedstrijd.
 ## Moderators
 
  * Daan, ook tijdens de game
+ * Kyrill, tot de game begint
  * Rijk, tot de game begint
+ * Youri, tot de game begint
 
 ## Hoe
 
@@ -52,6 +54,8 @@ Op deze manier is het duidelijk wie bij welk team hoort.
 Aan het begin van elke les, wordt het doel bekend gemaakt.
 Het team dat het doel het eerste haalt, wint.
 Het winnende team bepaalt welke speler overgeplaatst wordt.
+Dit gebeurt pas als het andere team de quest ook heeft gehaald.
+Tot dan mag mag het winnende team vrij spelen.
 
 Op deze manier worden/blijven de teams even sterk.
 
