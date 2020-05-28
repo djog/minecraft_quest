@@ -201,7 +201,6 @@ Geen probleem: als er plek is, ben je welkom om mee te doen.
 
  * D = Daan
  * J = Joshau
- * K = RijK 
  * R = Richel
  * S = Spelers
 
