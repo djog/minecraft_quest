@@ -263,35 +263,61 @@ Commands voor de Minecraft Quest
 
 ## Maak de teams aan
 
-`/team add blauw "Blauw"`
+```
+/team add blauw "Blauw"
+```
 
-`/team add rood "Rood"`
+```
+/team add rood "Rood"
+```
 
-`/team add mod "Moderator"`
+```
+/team add mod "Moderator"
+```
 
 ## Zet de kleuren van de teams
 
-`/team modify blauw color blue`
+```
+/team modify blauw color blue
+```
 
-`/team modify rood color red`
+```
+/team modify rood color red
+```
 
-`/team modify mod color green`
+```
+/team modify mod color green
+```
 
 ## Voeg enventueel nog een prefix toe
 
-`/team modify blauw prefix "[B] "`
+Let op de spatie achter de `[x] `: hierdoor zien de namen er mooier uit.
 
-`/team modify rood prefix "[R] "`
+```
+/team modify blauw prefix "[B] "
+```
 
-`/team modify mod prefix "[MOD] "`
+```
+/team modify rood prefix "[R] "
+```
+
+```
+/team modify mod prefix "[MOD] "
+```
 
 ## Voeg iemand aan het team toe
 
-`/team join blauw spelernaam`
+```
+/team join blauw spelernaam`
+```
 
-`/team join rood spelernaam`
+```
+/team join rood spelernaam`
+```
 
-`/team join mod spelernaam`
+```
+/team join mod spelernaam`
+```
 
 
 
@@ -303,18 +329,28 @@ Credits naar Joshua en Youri voor dit
 
 1e command block, zet op REPEAT & ALWAYS ACTIVE: (Voor team rood)
 
-`/replaceitem entity @a[team=rood] armor.head minecraft:leather_helmet{display:{Name:"{\"text\":\"Team rood\"}",color:16711680},Unbreakable:1,HideFlags:63,Enchantments:[{id:"minecraft:binding_curse",lvl:1}]}`
+```
+/replaceitem entity @a[team=rood] armor.head minecraft:leather_helmet{display:{Name:"{\"text\":\"Team rood\"}",color:16711680},Unbreakable:1,HideFlags:63,Enchantments:[{id:"minecraft:binding_curse",lvl:1}]}
+```
 
 2e command block, verbonden met 1e, zet op CHAIN & ALWAYS ACTIVE: (Voor team blauw)
 
-`/replaceitem entity @a[team=blauw] armor.head minecraft:leather_helmet{display:{Name:"{\"text\":\"Team blauw\"}",color:65535},Unbreakable:1,HideFlags:63,Enchantments:[{id:"minecraft:binding_curse",lvl:1}]}`
+```
+/replaceitem entity @a[team=blauw] armor.head minecraft:leather_helmet{display:{Name:"{\"text\":\"Team blauw\"}",color:65535},Unbreakable:1,HideFlags:63,Enchantments:[{id:"minecraft:binding_curse",lvl:1}]}
+```
 
 3e command block, verbonden met 2e, zet op CHAIN & ALWAYS ACTIVE: (Voor moderators)
 
-`/replaceitem entity @a[team=mod] armor.head minecraft:leather_helmet{display:{Name:"{\"text\":\"Moderator hoed\"}",color:49706},Unbreakable:1,HideFlags:63,Enchantments:[{id:"minecraft:binding_curse",lvl:1}]}`
+```
+/replaceitem entity @a[team=mod] armor.head minecraft:leather_helmet{display:{Name:"{\"text\":\"Moderator hoed\"}",color:49706},Unbreakable:1,HideFlags:63,Enchantments:[{id:"minecraft:binding_curse",lvl:1}]}
+```
+
 
 ## Haal de hoedjes weg
 
 Doe met deze command of in een command block:
 
-`/replaceitem entity @a armor.head air`
+```
+/replaceitem entity @a armor.head air
+```
+
