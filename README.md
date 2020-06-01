@@ -29,13 +29,16 @@ Minecraft wedstrijd.
 Bijeenkomsten zijn wekelijks, op Discord.
 Dit is het tijdschema:
 
+:warning: Dit zijn de tijden van een grote Minecraft Quest :warning:
+
 Tijd       |Taak
 -----------|---------------------------
-18:00-18:05|Quest wordt bekend gemaakt
-18:05-18:15|Vergadering
-18:15-19:00|Werken aan taken
+18:00-18:15|Binnenkomst
+18:15-19:00|Server open
 19:00-19:15|Pauze (verplicht!)
-19:15-20:00|Werken aan taken
+19:15-20:00|Server open
+20:00-20:05|Winnaar wordt bekend gemaakt
+
 
 Elk team heeft een eigen voicechatkanaal op de De Jonge Onderzoekers
 Discord server.
@@ -208,9 +211,10 @@ Geen probleem: als er plek is, ben je welkom om mee te doen.
 
 Tijd       |Wie  |Wat
 -----------|-----|----------------------------------------------------
-09:00-09:15|D    |Maakt nieuwe wereld, stelt server juist in
-09:15-09:30|D    |Maakt J en R moderator
-09:30-09:45|D,J,R|Kiezen goede wereld (dorpen moeten ver weg zijn)
+09:00-09:10|D    |Maakt nieuwe wereld, stelt server juist in
+09:10-09:15|D    |Whitelist J en R, maakt J en R moderator
+09:15-09:25|D,J,R|Kiezen goede wereld (dorpen moeten ver weg zijn)
+09:25-09:35|D,J,R|Spelers op whitelist (D) en spelers in teams (J,R)
 09:45-10:00|D,J,R|Deuren open op Discord
 
 ### Begin
@@ -265,13 +269,7 @@ Commands voor de Minecraft Quest
 
 ```
 /team add blauw "Blauw"
-```
-
-```
 /team add rood "Rood"
-```
-
-```
 /team add mod "Moderator"
 ```
 
@@ -279,13 +277,7 @@ Commands voor de Minecraft Quest
 
 ```
 /team modify blauw color blue
-```
-
-```
 /team modify rood color red
-```
-
-```
 /team modify mod color green
 ```
 
@@ -295,13 +287,7 @@ Let op de spatie achter de `[x] `: hierdoor zien de namen er mooier uit.
 
 ```
 /team modify blauw prefix "[B] "
-```
-
-```
 /team modify rood prefix "[R] "
-```
-
-```
 /team modify mod prefix "[MOD] "
 ```
 
@@ -309,13 +295,7 @@ Let op de spatie achter de `[x] `: hierdoor zien de namen er mooier uit.
 
 ```
 /team join blauw spelernaam`
-```
-
-```
 /team join rood spelernaam`
-```
-
-```
 /team join mod spelernaam`
 ```
 
