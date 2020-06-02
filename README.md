@@ -13,14 +13,16 @@ Minecraft wedstrijd.
 
 ## Scheidsrechters
 
- * Joshua
  * Richel
 
 ## Moderators
 
  * Daan
+
+## Coaches
+
  * Joshua
- * Richel
+ * Rijk
 
 ## Hoe
 
