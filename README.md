@@ -29,7 +29,10 @@ Minecraft wedstrijd.
 ### Bijeenkomst
 
 Bijeenkomsten zijn wekelijks, op Discord.
+
 Dit is het tijdschema:
+
+:warning: de tryout van zondag 7 juni is van 15:00-17:00 :warning:
 
 Tijd       |Taak
 -----------|---------------------------
