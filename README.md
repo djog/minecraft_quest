@@ -95,7 +95,7 @@ Deze tijd is expres kort, zodat je wel goed samen moet werken.
 
 ### Hoe worden de quests bepaalt?
 
-Door te stemmen op de `minecraft_quest` GitLab.
+Door te stemmen op de `minecraft_quest` GitLab of in de discord.
 
 ### Wat is het maximaal aantal spelers?
 
