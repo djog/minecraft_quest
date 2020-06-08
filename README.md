@@ -11,7 +11,7 @@ Minecraft wedstrijd.
 
  * `djog.hosthorde.net`
 
-## Scheidsrechters
+## Scheidsrechter
 
  * Richel
 
@@ -21,6 +21,8 @@ Minecraft wedstrijd.
 
 ## Coaches
 
+:warning: nog niet officieel, maar waarschijnlijk wel :warning:
+
  * Joshua
  * Rijk
 
@@ -28,18 +30,27 @@ Minecraft wedstrijd.
 
 ### Bijeenkomst
 
-Bijeenkomsten zijn wekelijks, op Discord.
+:warning: de tryout van zondag 14 juni is van 15:00-17:00 :warning:
+
+Bijeenkomsten zijn wekelijks, op donderdag, van 18:00-20:00, op Discord.
+
+Dag        |Quest
+-----------|---------------------------
+9 juli     |[nog onbekend]
+16 juli    |[nog onbekend]
+23 juli    |[nog onbekend]
+30 juli    |[nog onbekend]
+6 augustus |[nog onbekend]
+12 augustus|[nog onbekend] (deze is voor 2 punten!)
 
 Dit is het tijdschema:
-
-:warning: de tryout van zondag 7 juni is van 15:00-17:00 :warning:
 
 Tijd       |Taak
 -----------|---------------------------
 18:00-18:15|Binnenkomst
 18:15-18:45|Server open: warming up
 18:45-19:00|Server dicht, voor herstart met nieuwe wereld
-19:15-20:00|Server open voor wedstrijd
+19:00-20:00|Server open, teams stellen zich op, start wedstrijd
 20:00-20:05|Winnaar wordt bekend gemaakt
 
 Elk team heeft een eigen voicechatkanaal op de De Jonge Onderzoekers
@@ -67,9 +78,8 @@ Dit omdat we een whitelist hebben.
 
 ### Scheidsrechters
 
-Scheidsrechters lopen vrij rond. 
-ze hebben een groene skin.
-Scheidsrechters kijken alleen maar.
+Scheidsrechters spelen in 'spectator mode'. 
+Je kunt ze niet zien.
 
 Een scheidsrechter is altijd ook een moderator.
 
