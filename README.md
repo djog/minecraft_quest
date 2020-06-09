@@ -5,7 +5,6 @@ Minecraft wedstrijd.
 ## Doel
 
  * Samenwerken
- * Gebruiken GitLab
 
 ## Server
 
@@ -67,7 +66,8 @@ De wereld is verdeeld in twee helften:
 
 ### Quest
 
-De Quest is vantevoren bekend: deze wordt bepaalt door stemmen op GitLab.
+De Quest is vantevoren bekend: 
+deze wordt bepaalt door stemmen op de Discord Minecraft Quest server.
 Een voorbeeld: 'verzamel de meeste appels'.
 Het team me de meeste punten wint.
 
@@ -105,7 +105,7 @@ Deze tijd is expres kort, zodat je wel goed samen moet werken.
 
 ### Hoe worden de quests bepaalt?
 
-Door te stemmen op de `minecraft_quest` GitLab of in de discord.
+Door te stemmen in de Discord Minecraft Quest server.
 
 ### Wat is het maximaal aantal spelers?
 
