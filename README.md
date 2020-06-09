@@ -133,3 +133,8 @@ Commands voor de Minecraft Quest
 
 [Zie hier](https://github.com/djog/MCQuest_Datapack)
 
+## Video's
+
+ * Eerste try-out: [YouTube](https://youtu.be/xq_MknF9lyY) [Download](http://richelbilderbeek.nl/minecraft_quest_20200531.mp4 )(31 mei 2020, dank aan Rijk van Putten)
+ * Tweede testrun: [YouTube](https://youtu.be/8OzPmMhnrKQ) [Download](http://richelbilderbeek.nl/minecraft_quest_20200607.mp4) (7 juni 2020, dank aan Daan Schenkel)
+
