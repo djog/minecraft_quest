@@ -34,10 +34,10 @@ Minecraft wedstrijd.
 Tijd       |Taak
 -----------|---------------------------
 15:00-15:05|Binnenkomst
-18:05-18:35|Server open: warming up
-18:35-18:50|Server dicht, voor herstart met nieuwe wereld
-18:50-19:50|Server open, teams stellen zich op, start wedstrijd
-19:00-20:05|Winnaar wordt bekend gemaakt
+15:05-15:35|Server open: warming up
+15:35-15:40|Server dicht, voor herstart met nieuwe wereld
+15:40-16:40|Server open, teams stellen zich op, start wedstrijd
+16:50-17:00|Winnaar wordt bekend gemaakt
 
 Bijeenkomsten zijn wekelijks, op donderdag, van 18:00-20:00, op Discord.
 
