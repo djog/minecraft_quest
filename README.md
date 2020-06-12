@@ -28,16 +28,21 @@ Minecraft wedstrijd.
 
 ## Hoe
 
-### Bijeenkomst
+### Try-out
 
-:warning: de tryout van zondag 14 juni is van 15:00-17:00 :warning:
+Tot de echte bijeenkomsten zijn, zijn er try-outs op zondagen.
+
+De tryout van zondag 14 juni is van 15:00-17:00.
+
 Tijd       |Taak
 -----------|---------------------------
 15:00-15:05|Binnenkomst
 15:05-15:35|Server open: warming up
 15:35-15:40|Server dicht, voor herstart met nieuwe wereld
-15:40-16:40|Server open, teams stellen zich op, start wedstrijd
-16:50-17:00|Winnaar wordt bekend gemaakt
+15:40-16:50|Server open, teams stellen zich op, start wedstrijd
+16:50-17:00|Winnaar wordt bepaald en bekend gemaakt
+
+### Bijeenkomst
 
 Bijeenkomsten zijn wekelijks, op donderdag, van 18:00-20:00, op Discord.
 
