@@ -17,6 +17,7 @@ Minecraft wedstrijd.
 ## Moderators
 
  * Daan
+ * Youri
 
 ## Coaches
 
@@ -30,6 +31,13 @@ Minecraft wedstrijd.
 ### Bijeenkomst
 
 :warning: de tryout van zondag 14 juni is van 15:00-17:00 :warning:
+Tijd       |Taak
+-----------|---------------------------
+15:00-15:05|Binnenkomst
+18:05-18:35|Server open: warming up
+18:35-18:50|Server dicht, voor herstart met nieuwe wereld
+18:50-19:50|Server open, teams stellen zich op, start wedstrijd
+19:00-20:05|Winnaar wordt bekend gemaakt
 
 Bijeenkomsten zijn wekelijks, op donderdag, van 18:00-20:00, op Discord.
 
