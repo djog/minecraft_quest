@@ -47,13 +47,22 @@ Tijd       |Taak
 Bijeenkomsten zijn wekelijks, op donderdag, van 18:00-20:00, op Discord.
 
 Dag        |Quest
------------|---------------------------
-9 juli     |[nog onbekend]
-16 juli    |[nog onbekend]
-23 juli    |[nog onbekend]
-30 juli    |[nog onbekend]
-6 augustus |[nog onbekend]
-12 augustus|[nog onbekend] (deze is voor 2 punten!)
+-----------|--------------------------------------------------------
+9 juli     |?[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200709)
+16 juli    |?[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200716)
+23 juli    |?[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200723)
+30 juli    |?[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200730)
+6 augustus |?[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200806)
+12 augustus|?[Medium](https://minecraftbingo.com/?s=2-0-0-3_20200812) (deze is voor 2 punten!)
+
+Dag        |Teamcaptain Blauw |Teamcaptain Rood
+-----------|------------------|-----------------
+9 juli     |?Joshua           |?Rijk
+16 juli    |?Joshua           |?Rijk
+23 juli    |?Joshua           |?Rijk
+30 juli    |?Joshua           |?Rijk
+6 augustus |?Joshua           |?Rijk
+12 augustus|?Joshua           |?Rijk
 
 Dit is het tijdschema:
 
