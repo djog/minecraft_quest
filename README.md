@@ -151,3 +151,25 @@ Commands voor de Minecraft Quest
  * Eerste try-out: [YouTube](https://youtu.be/xq_MknF9lyY) [Download](http://richelbilderbeek.nl/minecraft_quest_20200531.mp4 )(31 mei 2020, dank aan Rijk van Putten)
  * Tweede testrun: [YouTube](https://youtu.be/8OzPmMhnrKQ) [Download](http://richelbilderbeek.nl/minecraft_quest_20200607.mp4) (7 juni 2020, dank aan Daan Schenkel)
 
+## Screenshots
+
+### 20200614
+
+Screenshots van de try-out van 14 juni 2020.
+
+![](pics/20200614/de_machtige_scheidsrechter.png)
+
+![](pics/20200614/team_blauw_heeft_een_dorp.png)
+
+![](pics/20200614/team_blauw_in_bad.png)
+
+![](pics/20200614/team_blauw_mod_volgt.png)
+
+![](pics/20200614/team_blauw_slaapt.png)
+
+![](pics/20200614/team_rood_is_gewond.png)
+
+![](pics/20200614/team_rood_mod_volgt.png)
+
+![](pics/20200614/team_rood_slaapt.png)
+
