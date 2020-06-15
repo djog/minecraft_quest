@@ -32,7 +32,7 @@ Minecraft wedstrijd.
 
 Tot de echte bijeenkomsten zijn, zijn er try-outs op zondagen.
 
-De tryout van zondag 14 juni is van 15:00-17:00.
+De tryout van zondag 20 juni is van 15:00-17:00.
 
 Tijd       |Taak
 -----------|---------------------------
