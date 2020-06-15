@@ -127,7 +127,7 @@ Deze tijd is expres kort, zodat je wel goed samen moet werken.
 
 ### Hoe worden de quests bepaalt?
 
-Door te stemmen in de Discord Minecraft Quest server.
+We pakken
 
 ### Wat is het maximaal aantal spelers?
 
@@ -149,11 +149,18 @@ Van 8 t/m 18 jaar.
 
 Geen probleem: als er plek is, ben je welkom om mee te doen.
 
+### Ik heb alsnog een vraag
+
+Prima, email De Jonge Onderzoekers op `info@dejongeonderzoekers.nl`
+
+## Technische vragen
+
 # Hoe maak je Teams aan
 
 Commands voor de Minecraft Quest
 
 [Zie hier](https://github.com/djog/MCQuest_Datapack)
+
 
 ## Video's
 
