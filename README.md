@@ -88,10 +88,14 @@ De wereld is verdeeld in twee helften:
 
 ### Quest
 
-De Quest is vantevoren bekend: 
-deze wordt bepaalt door stemmen op de Discord Minecraft Quest server.
-Een voorbeeld: 'verzamel de meeste appels'.
-Het team me de meeste punten wint.
+
+De Quest is vantevoren bekend
+en is in de vorm van een bingokaart.
+De 'seed' van deze bingokaart is vantevoren bekend:
+dit is de datum van de dag in JJJJMMDD,
+op de moeilijkheid Easy.
+Hier is de link voor 2020-07-09 (9 juli):
+[https://minecraftbingo.com/?s=2-0-0-3_20200709](https://minecraftbingo.com/?s=2-0-0-3_20200709).
 
 ### Moderators
 
