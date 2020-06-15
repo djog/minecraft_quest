@@ -177,6 +177,8 @@ Commands voor de Minecraft Quest
 
 Screenshots van de try-out van 14 juni 2020.
 
+pics/20200614/bingo_team_rood.png
+
 ![](pics/20200614/de_machtige_scheidsrechter.png)
 
 ![](pics/20200614/team_blauw_heeft_een_dorp.png)
