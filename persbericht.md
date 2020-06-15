@@ -12,3 +12,6 @@ is, van 9 juli t/m 12 augustus) van 18:00-20:00.
 Iedereen die Minecraft Java edition heeft kan meedoen, 
 met een maximum van 16 spelers.
 
+Meer informatie op https://github.com/djog/minecraft_quest .
+Je kunt je opgeven op info@dejongeonderzoekers.nl .
+

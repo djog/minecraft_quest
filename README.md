@@ -16,8 +16,8 @@ Minecraft wedstrijd.
 
 ## Moderators
 
- * Daan
- * Youri
+ * Daan: team blauw
+ * Youri: team rood
 
 ## Coaches
 
