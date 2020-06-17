@@ -53,7 +53,7 @@ Dag        |Quest
 23 juli    |?[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200723)
 30 juli    |?[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200730)
 6 augustus |?[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200806)
-12 augustus|?[Medium](https://minecraftbingo.com/?s=2-0-0-3_20200812) (deze is voor 2 punten!)
+13 augustus|?[Medium](https://minecraftbingo.com/?s=2-0-0-3_20200812) (deze is voor 2 punten!)
 
 Dag        |Teamcaptain Blauw |Teamcaptain Rood
 -----------|------------------|-----------------
@@ -62,7 +62,7 @@ Dag        |Teamcaptain Blauw |Teamcaptain Rood
 23 juli    |?Joshua           |?Rijk
 30 juli    |?Joshua           |?Rijk
 6 augustus |?Joshua           |?Rijk
-12 augustus|?Joshua           |?Rijk
+13 augustus|?Joshua           |?Rijk
 
 Dit is het tijdschema:
 
