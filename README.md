@@ -8,7 +8,7 @@ Minecraft wedstrijd.
 
 ## Server
 
- * `djog.hosthorde.net`
+ * IP: `MCQUEST.MC-SRV.COM`
 
 ## Scheidsrechter
 
