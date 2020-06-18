@@ -28,6 +28,12 @@ Minecraft wedstrijd.
 
 ## Hoe
 
+### Medoen
+
+Druk hieronder om de server te joinen:
+
+[![Discord](https://img.shields.io/discord/716999312990797854?label=DISCORD&logo=discord&style=for-the-badge)](https://discord.gg/zk3vfn9)
+
 ### Try-out
 
 Tot de echte bijeenkomsten zijn, zijn er try-outs op zondagen.
