@@ -59,12 +59,12 @@ Dag        |Quest
 
 Dag        |Teamcaptain Blauw |Teamcaptain Rood
 -----------|------------------|-----------------
-9 juli     |?Joshua           |Rijk
-16 juli    |?Joshua           |Rijk
-23 juli    |?Joshua           |Rijk
-30 juli    |?Joshua           |Rijk
-6 augustus |?Joshua           |Rijk
-13 augustus|?Joshua           |?
+9 juli     |Joshua            |Rijk
+16 juli    |Joshua            |Rijk
+23 juli    |Joshua            |Rijk
+30 juli    |Joshua            |Rijk
+6 augustus |Joshua            |Rijk
+13 augustus|Joshua            |?
 
 :warning: Als Rijk er niet is, wordt de game door ?Daan gehost :warning:
 
