@@ -1,4 +1,6 @@
-# minecraft_quest
+# De Minecraft Quest
+
+![logo](pics/logo.png)
 
 Minecraft wedstrijd.
 
@@ -6,20 +8,18 @@ Minecraft wedstrijd.
 
  * Samenwerken
 
-## Server
+## Rollen
 
- * IP: `MCQUEST.MC-SRV.COM`
-
-## Scheidsrechter
+### Scheidsrechter
 
  * Richel
 
-## Moderators
+### Moderators
 
- * Daan: team blauw
- * Youri: team rood
+ * Daan: Team Blauw
+ * Youri: Team Rood
 
-## Coaches
+### Coaches
 
 :warning: nog niet officieel, maar waarschijnlijk wel :warning:
 
@@ -116,14 +116,14 @@ Een scheidsrechter is altijd ook een moderator.
  * Gedraag je als een goed teamlid
  * Teams zijn gescheiden
  * We zijn zuinig op de spullen van het team
+ * Het gebruik maken van cheats/mods/hacked clients is niet toegestaan! Alleen optifine is eventueel toegestaan!
 
-## Vragen
+## FAQ
 
 ### Hoe wordt de server ingesteld?
 
- * Spigot versie 1.15.2
+ * Minecraft 1.16 (in de nieuwste snapshots totdat het uit is)
  * Survival mode
- * Easy mobs
  * Geen cheats
  * Geen command blocks
 
@@ -159,11 +159,9 @@ Geen probleem: als er plek is, ben je welkom om mee te doen.
 
 Prima, email De Jonge Onderzoekers op `info@dejongeonderzoekers.nl`
 
-## Technische vragen
+### Hoe werkt de server?
 
-# Hoe maak je Teams aan
-
-Commands voor de Minecraft Quest
+We maken gebruik van onze zelf gemaakte datapack!
 
 [Zie hier](https://github.com/djog/MCQuest_Datapack)
 
@@ -179,7 +177,7 @@ Commands voor de Minecraft Quest
 
 Screenshots van de try-out van 14 juni 2020.
 
-pics/20200614/bingo_team_rood.png
+![](pics/20200614/bingo_team_rood.png)
 
 ![](pics/20200614/de_machtige_scheidsrechter.png)
 
