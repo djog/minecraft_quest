@@ -55,6 +55,8 @@ Dag        |Quest
 6 augustus |?[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200806)
 13 augustus|?[Medium](https://minecraftbingo.com/?s=2-0-0-3_20200812) (deze is voor 2 punten!)
 
+### Teams
+
 Dag        |Teamcaptain Blauw |Teamcaptain Rood
 -----------|------------------|-----------------
 9 juli     |?Joshua           |Rijk
