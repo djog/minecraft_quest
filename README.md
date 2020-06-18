@@ -64,9 +64,7 @@ Dag        |Teamcaptain Blauw |Teamcaptain Rood
 23 juli    |Joshua            |Rijk
 30 juli    |Joshua            |Rijk
 6 augustus |Joshua            |Rijk
-13 augustus|Joshua            |?
-
-:warning: Als Rijk er niet is, wordt de game door ?Daan gehost :warning:
+13 augustus|Joshua            |Rijk
 
 Dit is het tijdschema:
 
