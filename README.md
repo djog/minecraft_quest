@@ -74,6 +74,8 @@ Dag        |Team Blauw        |Team Rood
 
 De eerstgenoemde speler is de teamcaptain.
 
+ * Spelers: Mia, Rafayel
+
 Dit is het tijdschema:
 
 Tijd       |Taak
