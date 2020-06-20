@@ -38,7 +38,7 @@ Druk hieronder om de server te joinen:
 
 Tot de echte bijeenkomsten zijn, zijn er try-outs op zondagen.
 
-De tryout van zondag 20 juni is van 15:00-17:00.
+De tryout van zondag 21 juni is van 15:00-17:00.
 
 Tijd       |Taak
 -----------|---------------------------
@@ -63,7 +63,7 @@ Dag        |Quest
 
 ### Teams
 
-Dag        |Teamcaptain Blauw |Teamcaptain Rood
+Dag        |Team Blauw        |Team Rood
 -----------|------------------|-----------------
 9 juli     |Joshua            |Rijk
 16 juli    |Joshua            |Rijk
@@ -71,6 +71,8 @@ Dag        |Teamcaptain Blauw |Teamcaptain Rood
 30 juli    |Joshua            |Rijk
 6 augustus |Joshua            |Rijk
 13 augustus|Joshua            |Rijk
+
+De eerstgenoemde speler is de teamcaptain.
 
 Dit is het tijdschema:
 
