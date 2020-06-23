@@ -183,6 +183,28 @@ We maken gebruik van onze zelf gemaakte datapack!
 
 ## Screenshots
 
+### 20200621
+
+![](pics/20200621/1.png)
+![](pics/20200621/2.png)
+![](pics/20200621/3.png)
+![](pics/20200621/4.png)
+![](pics/20200621/5.png)
+![](pics/20200621/6.png)
+![](pics/20200621/7.png)
+![](pics/20200621/8.png)
+![](pics/20200621/9.png)
+![](pics/20200621/10.png)
+![](pics/20200621/11.png)
+![](pics/20200621/12.png)
+![](pics/20200621/13.png)
+![](pics/20200621/14.png)
+![](pics/20200621/15.png)
+![](pics/20200621/16.png)
+![](pics/20200621/17.png)
+![](pics/20200621/18.png)
+![](pics/20200621/19.png)
+
 ### 20200614
 
 Screenshots van de try-out van 14 juni 2020.
