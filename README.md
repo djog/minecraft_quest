@@ -28,7 +28,7 @@ Minecraft wedstrijd.
 
 ## Hoe
 
-### Medoen
+### Meedoen
 
 Druk hieronder om de server te joinen:
 
@@ -45,8 +45,12 @@ Tijd       |Taak
 15:00-15:05|Binnenkomst
 15:05-15:35|Server open: warming up
 15:35-15:40|Server dicht, voor herstart met nieuwe wereld
-15:40-16:50|Server open, teams stellen zich op, start wedstrijd
-16:50-17:00|Winnaar wordt bepaald en bekend gemaakt
+15:40-16:40|Server open, teams stellen zich op, start wedstrijd
+16:40-17:00|Eind wedstrijd, daarna vrij spel
+
+### Servers
+
+ * [djogmcquest.mc-srv.com](djogmcquest.mc-srv.com): Daan's server, Minecraft 1.16.1
 
 ### Bijeenkomst
 
@@ -203,6 +207,10 @@ We maken gebruik van onze zelf gemaakte datapack!
 
  * Eerste try-out: [YouTube](https://youtu.be/xq_MknF9lyY) [Download](http://richelbilderbeek.nl/minecraft_quest_20200531.mp4 )(31 mei 2020, dank aan Rijk van Putten)
  * Tweede testrun: [YouTube](https://youtu.be/8OzPmMhnrKQ) [Download](http://richelbilderbeek.nl/minecraft_quest_20200607.mp4) (7 juni 2020, dank aan Daan Schenkel)
+
+### Fanwebsite
+
+ * [Minecraft Quest fansite](http://mcquest.is-great.net)
 
 ## Screenshots
 
