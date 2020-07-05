@@ -63,18 +63,40 @@ Dag        |Quest
 
 ### Teams
 
+Deelnemer|Team  |Opmerkingen
+---------|------|-----------
+?Joshua  |Blauw |Captain
+Mia      |Blauw |
+Quinn    |Blauw |
+Rashid   |Blauw |
+Jesse    |Blauw |
+Rymer    |Blauw |
+?Jesper  |Blauw |
+.        |Blauw |
+.        |Blauw |
+Rijk     |Rood  |Captain, behalve 16 en 23 juli
+Rafayel  |Rood  |?Captain, op 16 en 23 juli
+Yassir   |Rood  |
+Neelie   |Rood  |
+Erryn    |Rood  |
+?Seb     |Rood  |
+.        |Rood  |
+.        |Rood  |
+.        |Rood  |
+Daan     |-     |Moderator
+Youri    |-     |Moderator
+Richel   |-     |Scheidsrechter
+
+### Teamcaptains
+
 Dag        |Team Blauw        |Team Rood
 -----------|------------------|-----------------
 9 juli     |Joshua            |Rijk
-16 juli    |Joshua            |Rijk
-23 juli    |Joshua            |Rijk
+16 juli    |Joshua            |?Rafayel
+23 juli    |Joshua            |?Rafayel
 30 juli    |Joshua            |Rijk
 6 augustus |Joshua            |Rijk
 13 augustus|Joshua            |Rijk
-
-De eerstgenoemde speler is de teamcaptain.
-
- * Spelers: Mia, Rafayel
 
 Dit is het tijdschema:
 
@@ -126,7 +148,8 @@ Een scheidsrechter is altijd ook een moderator.
  * Gedraag je als een goed teamlid
  * Teams zijn gescheiden
  * We zijn zuinig op de spullen van het team
- * Het gebruik maken van cheats/mods/hacked clients is niet toegestaan! Alleen optifine is eventueel toegestaan!
+ * Het gebruik maken van cheats/mods/hacked clients is niet toegestaan! 
+   Alleen optifine is eventueel toegestaan!
 
 ## FAQ
 
