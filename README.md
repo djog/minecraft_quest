@@ -38,14 +38,14 @@ Druk hieronder om de server te joinen:
 
 Bijeenkomsten zijn wekelijks, op donderdag, van 18:00-20:00, op Discord.
 
-Dag        |Quest                                                                             |World seed |Server
------------|----------------------------------------------------------------------------------|-----------|-------------------------------------------------------
-9 juli     |[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200709)                            |`20200709` |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
-16 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200716)                            |`20200716` |[djogmcquest.mc-srv.com](djogmcquest.mc-srv.com) (Daan's server)
-23 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200723)                            |`20200723` |[djogmcquest.mc-srv.com](djogmcquest.mc-srv.com) (Daan's server)
-30 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200730)                            |`20200730` |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
-6 augustus |[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200806)                            |`20200806` |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
-13 augustus|[Medium](https://minecraftbingo.com/?s=2-0-0-3_20200812) (deze is voor 2 punten!) |`20200812` |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
+Dag        |Quest                                                                             |World en bingokaart seed |Server
+-----------|----------------------------------------------------------------------------------|-------------------------|-------------------------------------------------------
+9 juli     |[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200709)                            |`20200709`               |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
+16 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200716)                            |`20200716`               |[djogmcquest.mc-srv.com](djogmcquest.mc-srv.com) (Daan's server)
+23 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200723)                            |`20200723`               |[djogmcquest.mc-srv.com](djogmcquest.mc-srv.com) (Daan's server)
+30 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200730)                            |`20200730`               |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
+6 augustus |[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200806)                            |`20200806`               |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
+13 augustus|[Medium](https://minecraftbingo.com/?s=2-0-0-3_20200812) (deze is voor 2 punten!) |`20200812`               |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
 
 ### Teams
 
