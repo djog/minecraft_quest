@@ -34,36 +34,18 @@ Druk hieronder om de server te joinen:
 
 [![Discord](https://img.shields.io/discord/716999312990797854?label=DISCORD&logo=discord&style=for-the-badge)](https://discord.gg/zk3vfn9)
 
-### Try-out
-
-Tot de echte bijeenkomsten zijn, zijn er try-outs op zondagen.
-
-De tryout van zondag 21 juni is van 15:00-17:00.
-
-Tijd       |Taak
------------|---------------------------
-15:00-15:05|Binnenkomst
-15:05-15:35|Server open: warming up
-15:35-15:40|Server dicht, voor herstart met nieuwe wereld
-15:40-16:40|Server open, teams stellen zich op, start wedstrijd
-16:40-17:00|Eind wedstrijd, daarna vrij spel
-
-### Servers
-
- * [djogmcquest.mc-srv.com](djogmcquest.mc-srv.com): Daan's server, Minecraft 1.16.1
-
 ### Bijeenkomst
 
 Bijeenkomsten zijn wekelijks, op donderdag, van 18:00-20:00, op Discord.
 
-Dag        |Quest
------------|--------------------------------------------------------
-9 juli     |?[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200709)
-16 juli    |?[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200716)
-23 juli    |?[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200723)
-30 juli    |?[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200730)
-6 augustus |?[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200806)
-13 augustus|?[Medium](https://minecraftbingo.com/?s=2-0-0-3_20200812) (deze is voor 2 punten!)
+Dag        |Quest                                                                             |World seed |Server
+-----------|----------------------------------------------------------------------------------|-----------|-------------------------------------------------------
+9 juli     |[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200709)                            |`20200709` |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
+16 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200716)                            |`20200716` |[djogmcquest.mc-srv.com](djogmcquest.mc-srv.com) (Daan's server)
+23 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200723)                            |`20200723` |[djogmcquest.mc-srv.com](djogmcquest.mc-srv.com) (Daan's server)
+30 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200730)                            |`20200730` |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
+6 augustus |[Easy](https://minecraftbingo.com/?s=2-0-0-3_20200806)                            |`20200806` |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
+13 augustus|[Medium](https://minecraftbingo.com/?s=2-0-0-3_20200812) (deze is voor 2 punten!) |`20200812` |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
 
 ### Teams
 
@@ -124,8 +106,14 @@ De wereld is verdeeld in twee helften:
  * `Rood`: gaat Rechts oftwel oostwaards
  * `blauW`: gaat West oftewel links
 
-### Quest
+### Servers
 
+ * [mcquest.mc-srv.com](mcquest.mc-srv.com): Rijk's server, 
+ * [djogmcquest.mc-srv.com](djogmcquest.mc-srv.com): Daan's server
+
+Instellen op 'Minecraft 1.16.1, stable'.
+
+### Quest
 
 De Quest is vantevoren bekend
 en is in de vorm van een bingokaart.
@@ -134,6 +122,7 @@ dit is de datum van de dag in JJJJMMDD,
 op de moeilijkheid Easy.
 Hier is de link voor 2020-07-09 (9 juli):
 [https://minecraftbingo.com/?s=2-0-0-3_20200709](https://minecraftbingo.com/?s=2-0-0-3_20200709).
+Ook de Minecraft wereld heeft deze seed, zodat een team zich goed kan voorbereiden.
 
 ### Moderators
 
@@ -202,15 +191,15 @@ We maken gebruik van onze zelf gemaakte datapack!
 
 [Zie hier](https://github.com/djog/MCQuest_Datapack)
 
-
 ## Video's
 
  * Eerste try-out: [YouTube](https://youtu.be/xq_MknF9lyY) [Download](http://richelbilderbeek.nl/minecraft_quest_20200531.mp4 )(31 mei 2020, dank aan Rijk van Putten)
  * Tweede testrun: [YouTube](https://youtu.be/8OzPmMhnrKQ) [Download](http://richelbilderbeek.nl/minecraft_quest_20200607.mp4) (7 juni 2020, dank aan Daan Schenkel)
 
-### Fanwebsite
+### Links
 
  * [Minecraft Quest fansite](http://mcquest.is-great.net)
+ * [Minecraft Quest YouTube kanaal](https://youtu.be/MAWhR-EyciM)
 
 ## Screenshots
 
