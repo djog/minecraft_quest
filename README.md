@@ -21,10 +21,8 @@ Minecraft wedstrijd.
 
 ### Coaches
 
-:warning: nog niet officieel, maar waarschijnlijk wel :warning:
-
  * Joshua
- * Rijk
+ * Rijk en Rafayel
 
 ## Hoe
 
@@ -63,7 +61,7 @@ Rymer    |Blauw |
 .        |Blauw |
 .        |Blauw |
 Rijk     |Rood  |Captain, behalve 16 en 23 juli
-Rafayel  |Rood  |?Captain, op 16 en 23 juli
+Rafayel  |Rood  |Captain, op 16 en 23 juli
 Yassir   |Rood  |
 Neelie   |Rood  |
 Erryn    |Rood  |
@@ -80,8 +78,8 @@ Richel   |-     |Scheidsrechter
 Dag        |Team Blauw        |Team Rood
 -----------|------------------|-----------------
 9 juli     |Joshua            |Rijk
-16 juli    |Joshua            |?Rafayel
-23 juli    |Joshua            |?Rafayel
+16 juli    |Joshua            |Rafayel
+23 juli    |Joshua            |Rafayel
 30 juli    |Joshua            |Rijk
 6 augustus |Joshua            |Rijk
 13 augustus|Joshua            |Rijk
@@ -128,8 +126,10 @@ Ook de Minecraft wereld heeft deze seed, zodat een team zich goed kan voorbereid
 
 ### Moderators
 
-Moderators zorgen ervoor dat je op de Minecraft server kunt inloggen.
-Dit omdat we een whitelist hebben.
+Moderators zorgen ervoor dat de Minecraft server goed werkt,
+met de juiste instellingen
+
+ * [GitHub website van de MCQ data pack](https://github.com/djog/MCQuest_Datapack)
 
 ### Scheidsrechters
 
@@ -150,7 +150,7 @@ Een scheidsrechter is altijd ook een moderator.
 
 ### Hoe wordt de server ingesteld?
 
- * Minecraft 1.16 (in de nieuwste snapshots totdat het uit is)
+ * Minecraft 1.16.1 (stable)
  * Survival mode
  * Geen cheats
  * Geen command blocks
