@@ -49,29 +49,29 @@ Dag        |Quest                                                               
 
 ### Teams
 
-Deelnemer|Team  |Opmerkingen
----------|------|-----------
-?Joshua  |Blauw |Captain
-Mia      |Blauw |
-Quinn    |Blauw |
-Rashid   |Blauw |
-Jesse    |Blauw |
-Rymer    |Blauw |
-?Jesper  |Blauw |
-.        |Blauw |
-.        |Blauw |
-Rijk     |Rood  |Captain, behalve 16 en 23 juli
-Rafayel  |Rood  |Captain, op 16 en 23 juli
-Yassir   |Rood  |
-Neelie   |Rood  |
-Erryn    |Rood  |
-?Seb     |Rood  |
-.        |Rood  |
-.        |Rood  |
-.        |Rood  |
-Daan     |-     |Moderator
-Youri    |-     |Moderator
-Richel   |-     |Scheidsrechter
+Deelnemer|Team  |Score|Opmerkingen
+---------|------|-----|-----------
+Joshua   |Blauw |   0 |Captain
+Mia      |Blauw |   0 |Speler
+Quinn    |Blauw |   0 |Speler
+Rashid   |Blauw |   0 |Speler
+Rymer    |Blauw |   0 |Speler
+.        |Blauw |   . |.
+.        |Blauw |   . |.
+.        |Blauw |   . |.
+.        |Blauw |   . |.
+Rijk     |Rood  |   1 |Captain, behalve 16 en 23 juli
+Rafayel  |Rood  |   0 |Captain, op 16 en 23 juli
+Erryn    |Rood  |   1 |Speler
+Jesse    |Rood  |   1 |Speler
+Jamie    |Rood  |   1 |Speler
+Willem   |Rood  |   1 |Speler
+.        |Rood  |   . |.
+.        |Rood  |   . |.
+.        |Rood  |   . |.
+Daan     |-     | Inf |Moderator
+Youri    |-     | Inf |Moderator
+Richel   |-     | Inf |Scheidsrechter
 
 ### Teamcaptains
 
