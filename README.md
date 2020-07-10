@@ -19,10 +19,10 @@ Minecraft wedstrijd.
  * Daan: Team Blauw
  * Youri: Team Rood
 
-### Coaches
+### Teamcaptains
 
- * Joshua
- * Rijk en Rafayel
+ * Joshua: Team Blauw
+ * Rijk en Rafayel: Team Rood
 
 ## Hoe
 
@@ -51,27 +51,32 @@ Dag        |Quest                                                               
 
 Deelnemer|Team  |Score|Opmerkingen
 ---------|------|-----|-----------
-Joshua   |Blauw |   0 |Captain
-Mia      |Blauw |   0 |Speler
-Quinn    |Blauw |   0 |Speler
-Rashid   |Blauw |   0 |Speler
-Rymer    |Blauw |   0 |Speler
+Joshua   |Blauw | 0/1 |Captain
+Mia      |Blauw | 0/1 |Speler
+Quinn    |Blauw | 0/1 |Speler
+Rashid   |Blauw | 0/1 |Speler
+Rymer    |Blauw | 0/1 |Speler
 .        |Blauw |   . |.
 .        |Blauw |   . |.
 .        |Blauw |   . |.
 .        |Blauw |   . |.
-Rijk     |Rood  |   1 |Captain, behalve 16 en 23 juli
-Rafayel  |Rood  |   0 |Captain, op 16 en 23 juli
-Erryn    |Rood  |   1 |Speler
-Jesse    |Rood  |   1 |Speler
-Jamie    |Rood  |   1 |Speler
-Willem   |Rood  |   1 |Speler
+Rijk     |Rood  | 1/1 |Captain, behalve 16 en 23 juli
+Rafayel  |Rood  |   . |Captain, op 16 en 23 juli
+Erryn    |Rood  | 1/1 |Speler
+Jesse    |Rood  | 1/1 |Speler
+Jamie    |Rood  | 1/1 |Speler
+Willem   |Rood  | 1/1 |Speler
 .        |Rood  |   . |.
 .        |Rood  |   . |.
 .        |Rood  |   . |.
 Daan     |-     | Inf |Moderator
 Youri    |-     | Inf |Moderator
 Richel   |-     | Inf |Scheidsrechter
+
+ * Je score is persoonlijk. Het eerste getal is het aantal punten dat je
+   hebt gehaald, als lid van een winnend team. Het tweede getal is het
+   maximum aantal punten dat je hebt kunnen halen.
+   Op deze manier maakt het niet uit als je van team wisselt
 
 ### Teamcaptains
 
