@@ -113,6 +113,7 @@ De wereld is verdeeld in twee helften:
 
 ### Servers
 
+ * [mcquest.joinjava.net](mcquest.joinjava.net): DJO server
  * [mcquest.mc-srv.com](mcquest.mc-srv.com): Rijk's server, 
  * [djogmcquest.mc-srv.com](djogmcquest.mc-srv.com): Daan's server
 
