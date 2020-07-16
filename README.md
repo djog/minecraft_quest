@@ -52,9 +52,9 @@ Dag        |Quest                                                               
 Deelnemer|Team  |Score|Opmerkingen
 ---------|------|-----|-----------
 Joshua   |Blauw | 0/1 |Captain
-Mia      |Blauw | 0/1 |Speler
-Quinn    |Blauw | 0/1 |Speler
-Rashid   |Blauw | 0/1 |Speler
+Mia      |Blauw | 0/2 |Speler
+Quinn    |Blauw | 0/2 |Speler
+Rashid   |Blauw | 0/2 |Speler
 Rymer    |Blauw | 0/1 |Speler
 Julian   |Blauw |   . |Speler
 .        |Blauw |   . |.
@@ -63,9 +63,9 @@ Julian   |Blauw |   . |Speler
 Rijk     |Rood  | 1/1 |Captain, behalve 16 en 23 juli
 Rafayel  |Rood  |   . |Captain, op 16 en 23 juli
 Erryn    |Rood  | 1/1 |Speler
-Jesse    |Rood  | 1/1 |Speler
-Jamie    |Rood  | 1/1 |Speler
-Willem   |Rood  | 1/1 |Speler
+Jesse    |Rood  | 2/2 |Speler
+Jamie    |Rood  | 2/2 |Speler
+Willem   |Rood  | 2/2 |Speler
 .        |Rood  |   . |.
 .        |Rood  |   . |.
 .        |Rood  |   . |.
