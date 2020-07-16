@@ -40,10 +40,10 @@ Dag        |Quest                                                               
 -----------|----------------------------------------------------------------------------------|-------------------------|-------------------------------------------------------
 9 juli     |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200709)                            |`20200709`               |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
 16 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200716)                            |`20200716`               |[mcquest.joinjava.net](mcquest.joinjava.net) (De DJO server)
-23 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200723)                            |`20200723`               |[djogmcquest.mc-srv.com](djogmcquest.mc-srv.com) (Daan's server)
-30 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200730)                            |`20200730`               |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
-6 augustus |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200806)                            |`20200806`               |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
-13 augustus|[Medium](https://minecraftbingo.com/?s=2-0-0-dev_20200812) (deze is voor 2 punten!) |`20200812`               |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
+23 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200723)                            |`20200723`               |[djogmcquest.mc-srv.com](mcquest.joinjava.net) (De DJO server)
+30 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200730)                            |`20200730`               |[mcquest.mc-srv.com](mcquest.joinjava.net) (De DJO server)
+6 augustus |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200806)                            |`20200806`               |[mcquest.mc-srv.com](mcquest.joinjava.net) (De DJO server)
+13 augustus|[Medium](https://minecraftbingo.com/?s=2-0-0-dev_20200812) (deze is voor 2 punten!) |`20200812`               |[mcquest.mc-srv.com](mcquest.joinjava.net) (De DJO server)
 
  * We gebruiken de `dev-version` van de bingokaart
 
@@ -104,7 +104,7 @@ Discord server.
 
 ### Teams
 
-Er zijn twee teams: het rode en blauwe team. 
+Er zijn twee teams: het rode en blauwe team.
 
 De wereld is verdeeld in twee helften:
 
@@ -114,7 +114,7 @@ De wereld is verdeeld in twee helften:
 ### Servers
 
  * [mcquest.joinjava.net](mcquest.joinjava.net): DJO server
- * [mcquest.mc-srv.com](mcquest.mc-srv.com): Rijk's server, 
+ * [mcquest.mc-srv.com](mcquest.mc-srv.com): Rijk's server,
  * [djogmcquest.mc-srv.com](djogmcquest.mc-srv.com): Daan's server
 
 Instellen op 'Minecraft 1.16.1, stable'.
@@ -139,7 +139,7 @@ met de juiste instellingen
 
 ### Scheidsrechters
 
-Scheidsrechters spelen in 'spectator mode'. 
+Scheidsrechters spelen in 'spectator mode'.
 Je kunt ze niet zien.
 
 Een scheidsrechter is altijd ook een moderator.
@@ -149,7 +149,7 @@ Een scheidsrechter is altijd ook een moderator.
  * Gedraag je als een goed teamlid
  * Teams zijn gescheiden
  * We zijn zuinig op de spullen van het team
- * Het gebruik maken van cheats/mods/hacked clients is niet toegestaan! 
+ * Het gebruik maken van cheats/mods/hacked clients is niet toegestaan!
    Alleen optifine is eventueel toegestaan!
 
 ## FAQ
@@ -254,4 +254,3 @@ Screenshots van de try-out van 14 juni 2020.
 ![](pics/20200614/team_rood_mod_volgt.png)
 
 ![](pics/20200614/team_rood_slaapt.png)
-
