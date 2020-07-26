@@ -52,11 +52,12 @@ Dag        |Quest                                                               
 Deelnemer|Team  |Score|Opmerkingen
 ---------|------|-----|-----------
 Joshua   |Blauw | 0/1 |Captain
-Mia      |Blauw | 0/2 |Speler
-Quinn    |Blauw | 0/2 |Speler
+Mia      |Blauw | 1/3 |Speler
+Quinn    |Blauw | 1/3 |Speler
 Rashid   |Blauw | 0/2 |Speler
 Rymer    |Blauw | 0/1 |Speler
 Julian   |Blauw |   . |Speler
+Youri    |Blauw | 1/1 |reserve-speler
 .        |Blauw |   . |.
 .        |Blauw |   . |.
 .        |Blauw |   . |.
