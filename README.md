@@ -41,9 +41,9 @@ Dag        |Quest                                                               
 9 juli     |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200709)                            |`20200709`               |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
 16 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200716)                            |`20200716`               |[mcquest.joinjava.net](mcquest.joinjava.net) (De DJO server)
 23 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200723)                            |`20200723`               |[mcquest.joinjava.net](mcquest.joinjava.net) (De DJO server)
-30 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200730)                            |`20200730`               |[mcquest.joinjava.net](mcquest.joinjava.net) (De DJO server)
-6 augustus |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200806)                            |`20200806`               |[mcquest.joinjava.net](mcquest.joinjava.net) (De DJO server)
-13 augustus|[Medium](https://minecraftbingo.com/?s=2-0-0-dev_20200812) (deze is voor 2 punten!) |`20200812`               |[mcquest.joinjava.net](mcquest.joinjava.net) (De DJO server)
+30 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200730)                            |`20200730`               |[MCQUEST.MC-SRV.COM](MCQUEST.MC-SRV.COM) (De DJO server)
+6 augustus |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200806)                            |`20200806`               |[MCQUEST.MC-SRV.COM](MCQUEST.MC-SRV.COM) (De DJO server)
+13 augustus|[Medium](https://minecraftbingo.com/?s=2-0-0-dev_20200812) (deze is voor 2 punten!) |`20200812`               |[MCQUEST.MC-SRV.COM](MCQUEST.MC-SRV.COM) (De DJO server)
 
  * We gebruiken de `dev-version` van de bingokaart
 
