@@ -52,8 +52,8 @@ Dag        |Quest                                                               
 Deelnemer|Team  |Score|Opmerkingen
 ---------|------|-----|-----------
 Joshua   |Blauw | 0/2 |Captain
-Mia      |Blauw | 1/4 |Speler
-Quinn    |Blauw | 1/5 |Speler
+Mia      |Blauw | 1/6 |Speler
+Quinn    |Blauw | 1/7 |Speler
 Rashid   |Blauw | 0/2 |Speler
 Rymer    |Blauw | 0/1 |Speler
 Julian   |Blauw |   . |Speler
@@ -61,13 +61,13 @@ Youri    |Blauw | 1/1 |reserve-speler
 .        |Blauw |   . |.
 .        |Blauw |   . |.
 .        |Blauw |   . |.
-Rijk     |Rood  | 3/3 |Captain, behalve 16 en 23 juli
+Rijk     |Rood  | 5/5 |Captain, behalve 16 en 23 juli
 Rafayel  |Rood  |   . |Captain, op 16 en 23 juli
 Erryn    |Rood  | 1/1 |Speler
-Jesse    |Rood  | 3/4 |Speler
+Jesse    |Rood  | 3/6 |Speler
 Tesse    |Rood  | 1/1 |Speler
 Jamie    |Rood  | 3/3 |Speler
-Willem   |Rood  | 4/4 |Speler
+Willem   |Rood  | 6/6 |Speler
 .        |Rood  |   . |.
 .        |Rood  |   . |.
 .        |Rood  |   . |.
