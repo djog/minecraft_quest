@@ -30,7 +30,7 @@ Minecraft wedstrijd.
 
 Druk hieronder om de server te joinen:
 
-[![Discord](https://img.shields.io/discord/463752820026376202.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/zk3vfn9)
+[![Discord](https://img.shields.io/discord/716999312990797854?label=DISCORD&logo=discord&style=for-the-badge)](https://discord.gg/zk3vfn9)
 
 ### Bijeenkomst
 
