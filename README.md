@@ -158,7 +158,7 @@ Een scheidsrechter is altijd ook een moderator.
 
 ### Hoe wordt de server ingesteld?
 
- * Minecraft 1.16.1 (stable)
+ * Minecraft 1.16.2 (stable)
  * Survival mode
  * Geen cheats
  * Geen command blocks
@@ -177,11 +177,11 @@ We pakken
 
 ### Ik heb geen Minecraft
 
-Helaas pindakaas :+1:
+Je kan nog steeds mee doen als je komt naar de DJOG
 
 ### Ik heb geen Minecraft Java Edition
 
-Helaas pindakaas :+1:
+Je kan nog steeds mee doen als je komt naar de DJOG
 
 ### Voor welke leeftijd is dit?
 
