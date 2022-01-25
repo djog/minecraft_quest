@@ -174,6 +174,7 @@ Dan kan je helaas niet meedoen.
 ### Ik heb geen Minecraft Java Edition
 
 Dan kan je helaas niet meedoen.
+We gaan proberen de server op Bedrock te laten werken, maar niks is nog zeker.
 
 ### Voor welke leeftijd is dit?
 
