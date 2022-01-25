@@ -1,0 +1,439 @@
+#
+# Makes a player invulnerable if he has the permission 'skript.god'
+#
+
+on damage:
+	victim is a player
+	{%victim%.rank} is "mod"
+	cancel event
+	
+on damage:
+	attacker is a player
+	{%attacker%.rank} is "mod"
+	cancel event
+	send "&2Minecraft &cQuest | &fJe mag dit niet doen als moderator." to attacker
+on damage:
+	attacker is a player
+	{status} is "waiting"
+	cancel event
+
+on damage:
+	victim is a player
+	{status} is "waiting"
+	cancel event
+
+every 1 second:
+	loop all players:
+		{%loop-player%.rank} is "mod"
+		apply night vision without any particles to loop-player for 100000 seconds
+		apply invisibility without any particles to loop-player for 100000 seconds
+every 1 second in "world":
+	{status} is "waiting"
+	set {time.season} to 0 ticks
+	set time of the world "world" to {time.season}
+	loop all players:
+		set loop-player's food level to 10
+		set loop-player's health to 20		
+on block break:
+	{%player%.rank} is "mod"
+	cancel event
+	send "&2Minecraft &cQuest | &fJe mag dit niet doen als moderator." to player
+
+on block place:
+	{%player%.rank} is "mod"
+	cancel event
+	send "&2Minecraft &cQuest | &fJe mag dit niet doen als moderator." to player
+
+
+on join:
+	set gamemode of player to survival
+	if {%player%.rank} is "sweden":
+		set the player's tablist name to "§9Sve§erige &8| &7%player%"
+	if {%player%.rank} is "netherlands":
+		set the player's tablist name to "§cNe§fde§9rland &8| &7%player%"
+	if {%player%.rank} is "mod":
+		set the player's tablist name to "&5MOD &8| &7%player%"
+		set gamemode of player to creative
+	
+	{%player%.rank} is not set
+	send "&2Minecraft &cQuest | &fWelkom! Gebruik /netherlands om Nederland te selecteren en gebruik /sweden om Zweden te selecteren"
+	send "&2Minecraft &cQuest | &fVälkommen! Använd /netherlands för att välja Nederländerna och använd /sweden för att välja Sverige"
+every second:
+	set {ServerTPS} to the server last tps
+	set {Online} to number of all players
+	loop all players:
+		set loop-player's tab list header to "&2Minecraft &cQuest"
+		set loop-player's tab list footer to "&2On&cline: &f%{Online}% &c | &2T&cP&2S:&f %{ServerTPS}%"
+		if {%loop-player%.rank} is "sweden":
+			set loop-player's tablist name to "§9Sve§erige &8| &7%loop-player%"
+		if {%loop-player%.rank} is "netherlands":
+			set loop-player's tablist name to "§cNe§fder§9land &8| &7%loop-player%"
+		if {%loop-player%.rank} is "mod":
+			set loop-player's tablist name to "&5MOD &8| &7%loop-player%"
+on chat:
+	cancel event
+	if {%player%.rank} is "sweden":
+		broadcast "§9Sve§ereige &8| &7%player% &f%message%"
+	if {%player%.rank} is "netherlands":
+		broadcast "§cNe§fder§9land &8| &7%player% &f%message%"
+	if {%player%.rank} is "mod":
+		broadcast "&5MOD &8| &7%player% &f%message%"
+	{%player%.rank} is not set
+	send "&2Minecraft &cQuest"
+	send "&fJe rank is nog niet ingesteld."
+	send "&fDin rangordning har inte ställts in ännu."
+command /netherlands:
+	trigger:
+		set {%player%.rank} to "netherlands"
+		send "&2Minecraft &cQuest | &fJe rank is ingesteld op Nederlands."
+		execute console command "effect clear %player%"
+
+command /sweden:
+	trigger:
+		set {%player%.rank} to "sweden"
+		send "&2Minecraft &cQuest | &fDin rang är satt till Sverige. "
+		execute console command "effect clear %player%"
+
+command /mod [<offline player>]:
+	trigger:
+		if arg-1 is empty:
+			send "&2Minecraft &cQuest | &f/mod <speler>"
+		player has permission "skript.mod"
+		set {%arg-1%.rank} to "mod"
+
+		send "&2Minecraft &cQuest | &fJe bent nu een moderator." to arg-1
+		send "&2Minecraft &cQuest | &fModerator toegevoegd." to player
+		
+
+command /reset:
+	trigger:
+		delete {%player%.rank}
+		send "&2Minecraft &cQuest | &fJe bent gereset."
+every 9 seconds:
+	loop all players:
+		{%loop-player%.rank} is not set
+		send "&2Minecraft &cQuest" to loop-player
+		send "&fWelkom! Gebruik /netherlands om Nederland te selecteren en gebruik /sweden om Zweden te selecteren." to loop-player
+		send "&fVälkommen! Använd /netherlands för att välja Nederländerna och använd /sweden för att välja Sverige" to loop-player
+command /s:
+	trigger:
+		if {%player%.rank} is "mod":
+			if gamemode of player is not creative:
+				set gamemode of player to creative
+			else:
+				set gamemode of player to spectator
+every 1 seconds in world "world":
+	if {status} is "waiting":
+		create bossbar titled "&2Minecraft &cQuest | &fPre-game" and id "bossbar" for all players with progress 100 with colors blue
+		set time to 06:00
+		loop all players:
+			{%loop-player%.rank} is not "mod"
+			set gamemode of loop-player to adventure
+command /waiting:
+	trigger:
+		{%player%.rank} is "mod"
+		set {status} to "waiting"
+		send "&2Minecraft &cQuest &fWacht modus geactiveerd."
+		execute console command "worldborder set 10"
+		loop all players:
+			execute console command "tp %loop-player% 0 200 0"
+			set {%loop-player%.fallen} to false
+		set {ended} to true
+		set {specOnDeath} to false
+		set {netherlands.count} to 0
+		set {sweden.count} to 0
+		
+		
+on join:
+	if {status} is "waiting":
+		execute console command "tp %player% 0 200 0"
+		set {%player%.fallen} to false		
+command /start:
+	trigger:
+		{%player%.rank} is "mod"
+		set {status} to "ingame"
+		create bossbar titled "&2Minecraft &cQuest | &fPre-game" and id "bossbar" for all players with progress 100 with colors blue
+		broadcast "&2Minecraft &cQuest | &f10" 
+		execute console command "playsound minecraft:block.end_portal_frame.fill master @a 0 0 0 1 2 1"
+		
+		wait 1 second
+		loop 10 times:
+			set bossbar "bossbar" value to ({timeVar} * 10)
+			set {timeVar} to (10 - loop-number)
+			broadcast "&2Minecraft &cQuest | &f%{timeVar}%" 
+			execute console command "playsound minecraft:block.end_portal_frame.fill master @a 0 0 0 1 2 1"
+			wait 1 seconds # 100 * 9sec = 15 minutes		
+		set {status} to "ingame"
+		set {netherlands.count} to 0
+		set {sweden.count} to 0
+		
+		execute console command "worldborder set 10000 0"
+		remove bossbar "bossbar"
+		create bossbar titled "&2Minecraft &cQuest | &fIn-game" and id "bossbar" for all players with progress 100 with colors blue
+		execute console command "playsound minecraft:block.end_portal.spawn master @a 0 0 0 1 1 1"
+		set {specOnDeath} to false
+
+		loop all players:
+			set gamemode of loop-player to survival
+			set loop-player's food level to 10
+			set loop-player's health to 20
+			set {_x} to a random integer between 100 and -100
+			set {_z} to a random integer between 100 and -100
+			set {%loop-player%.fallen} to false
+			execute console command "tp %loop-player% %{_x}% 100 %{_z}%"	
+			send loop-player title "&2Minecraft &cQuest" with subtitle "Go!" for 5 seconds
+		set {ended} to false
+		loop 100 times:
+			set bossbar "bossbar" value to (100 - loop-number)
+			wait 1.5 seconds # 100 * 9sec = 15 minutes
+		remove bossbar "bossbar"
+		broadcast "&2Minecraft &cQuest | &fFight" 
+		create bossbar titled "&2Minecraft &cQuest | &fFight" and id "bossbar" for all players with progress 100 with colors blue
+		set {status} to "fight"
+		execute console command "shrink"
+
+command /goto [<offline player>]:
+	trigger:
+		{%player%.rank} is "mod"
+		if arg-1 is not set:
+			send "Usage: /goto [player]"
+		teleport player to arg-1
+
+every 5 seconds:
+	loop all players:
+		equip loop-player with leather helmet named "Team"
+		
+		if {%loop-player%.rank} is "mod":
+			dye loop-player's helmet white
+		if {%loop-player%.rank} is "netherlands":
+			dye loop-player's helmet red
+		if {%loop-player%.rank} is "sweden":
+			dye loop-player's helmet blue
+on inventory click:
+		item is leather helmet named "Team"
+		cancel event
+on damage:
+	if damage cause is fall:
+		{%victim%.fallen} is false
+		set {%victim%.fallen} to true
+		cancel event
+
+on skript start:
+	set {status} to "waiting"
+	broadcast "&2Minecraft &cQuest &fWacht modus geactiveerd."
+	execute console command "worldborder set 10"
+	loop all players:
+		execute console command "tp %loop-player% 0 200 0"
+		set {%loop-player%.fallen} to false
+	set {netherlands.count} to 0
+	set {sweden.count} to 0
+		
+command /version:
+	trigger:
+		send "&4Access Denied"
+command /ver:
+	trigger:
+		send "&4Access Denied"
+command /pl:
+	trigger:
+		send "&4Access Denied"
+command /plugins:
+	trigger:
+		send "&4Access Denied"
+command /about:
+	trigger:
+		send "&4Access Denied"
+command //calc:
+	trigger:
+		send "&4Access Denied"
+command /ipwl:
+	trigger:
+		send "&4Access Denied"
+command /pt:
+	trigger:
+		send "&4Access Denied"
+command /powertool:
+	trigger:
+		send "&4Access Denied"
+command /ept:
+	trigger:
+		send "&4Access Denied"
+command /epowertool:
+	trigger:
+		send "&4Access Denied"
+command /br:
+	trigger:
+		send "&4Access Denied"
+command /bukkit:help:
+	trigger:
+		send "&4Access Denied"
+command /bukkit:?:
+	trigger:
+		send "&4Access Denied"
+command /?:
+	trigger:
+		send "&4Access Denied"
+command /bukkit:about:
+	trigger:
+		send "&4Access Denied"
+command /bukkit:pl:
+	trigger:
+		send "&4Access Denied"
+command /bukkit:plugins:
+	trigger:
+		send "&4Access Denied"
+command /bukkit:version:
+	trigger:
+		send "&4Access Denied"
+	trigger:
+		send "&4Access Denied"
+command /help:
+	trigger:
+		send "&4Access Denied"
+command /say [<text>]:
+	trigger:
+		send "&2Minecraft &cQuest &f/say wordt niet ondersteund door de geinstalleerde plugins. Stuur je bericht opnieuw zonder /say. /say stöds inte av de installerade plugins. Skicka ditt meddelande igen utan /say. "
+on world change:
+	player's world is not "world"
+	player's world is not "world_nether"
+	execute console command "mvtp %player% world"
+
+on join:
+	player's world is not "world"
+	player's world is not "world_nether"
+	execute console command "mvtp %player% world"
+
+command /shrink:
+	trigger:
+		executor is console
+		execute console command "worldborder center 0 0"
+		execute console command "worldborder set 200 0"
+		set {specOnDeath} to true
+		set {survivalPlayers} to 0
+		loop all players:
+			set {_xs} to a random integer between -49 and 50
+			set {_zs} to a random integer between -49 and 50
+			set {%loop-player%.fallen} to false
+			execute console command "tp %loop-player% %{_xs}% 100 %{_zs}%"	
+		execute console command "worldborder set 100 100"
+		{ended} is false
+		execute console command "worldborder set 50 60"
+		{ended} is false
+
+		wait 80 seconds
+		execute console command "worldborder set 10 100"
+		{ended} is false
+
+		wait 200 seconds
+		{ended} is false
+
+		execute console command "worldborder set 5 60"
+		
+
+on death of player:
+	{specOnDeath} is true
+	cancel event
+	wait 1 tick
+	set gamemode of player to spectator
+
+
+every second:
+	{status} is "fight"
+	set {survivalPlayers} to 0
+	set {aliveNetherlands} to 0
+	set {aliveSweden} to 0
+	
+	
+	{specOnDeath} is true
+	loop all players:
+		if gamemode of loop-player is survival or adventure:
+			add 1 to {survivalPlayers}
+			set {winner} to name of loop-player
+			set {winner.team} to {%loop-player%.rank}
+			if {%loop-player%.rank} is "netherlands":
+				add 1 to {aliveNetherlands}
+			if {%loop-player%.rank} is "sweden":
+				add 1 to {aliveSweden}
+			
+	if {aliveSweden} is 0:
+		{ended} is false
+		set {specOnDeath} to false
+		set {ended} to true
+		broadcast "&2Minecraft &cQuest &f+2 Punten voor Nederland!"
+		execute console command "playsound minecraft:music_disc.mellohi master @a 0 0 0 1 1 1"
+		add 2 to {netherlands.count}
+		broadcast "&2Minecraft &cQuest | &fEn de winnaar is..."
+		wait 10 seconds
+		if {netherlands.count} is higher than {sweden.count}:
+			broadcast "&2Minecraft &cQuest | &fNederland wint!" 
+		else:
+			if {netherlands.count} is equal to {sweden.count}:
+				broadcast "&2Minecraft &cQuest | &fGelijkspel!"
+			else: 
+				broadcast "&2Minecraft &cQuest | &fZweden wint!" 
+
+		execute console command "worldborder set 200 0"
+		loop all players:
+			if gamemode of loop-player is survival or adventure:
+				clear inventory of all players
+				set gamemode of loop-player to adventure
+				execute console command "tp @a %loop-player%"
+				send loop-player title "&2Minecraft &cQuest" with subtitle "Zie het resultaat in de chat" for 5 seconds
+				remove bossbar "bossbar"
+				create bossbar titled "&2Minecraft &cQuest | &fPost-game" and id "bossbar" for all players with progress 100 with colors blue
+				set {status} to "postgame"				
+
+	if {aliveNetherlands} is 0:
+		{ended} is false
+		set {specOnDeath} to false
+		set {ended} to true
+		broadcast "&2Minecraft &cQuest &f+2 Punten voor Zweden!"
+		execute console command "playsound minecraft:music_disc.mellohi master @a 0 0 0 1 1 1"
+		add 2 to {sweden.count}
+		broadcast "&2Minecraft &cQuest | &fEn de winnaar is..."
+		wait 10 seconds
+		if {netherlands.count} is higher than {sweden.count}:
+			broadcast "&2Minecraft &cQuest | &fNederland wint!" 
+		else:
+			if {netherlands.count} is equal to {sweden.count}:
+				broadcast "&2Minecraft &cQuest | &fGelijkspel!" 
+			else:
+
+				broadcast "&2Minecraft &cQuest | &fZweden wint!" 
+
+		execute console command "worldborder set 200 0"
+		loop all players:
+			if gamemode of loop-player is survival:
+				clear inventory of all players
+				set gamemode of loop-player to adventure
+				execute console command "tp @a %loop-player%"
+				execute console command "playsound minecraft:music_disc.mellohi master @a 0 0 0 1 1 1"
+				send loop-player title "&2Minecraft &cQuest" with subtitle "Zie het resultaat in de chat" for 5 seconds
+				remove bossbar "bossbar"
+				create bossbar titled "&2Minecraft &cQuest | &fPost-game" and id "bossbar" for all players with progress 100 with colors blue
+				set {status} to "postgame"
+
+command /addbingo:
+	trigger:
+		if {%player%.rank} is "netherlands":
+			add 1 to {netherlands.count}
+			broadcast "&2Minecraft &cQuest | &f+1 punt voor nederland!" 
+		if {%player%.rank} is "sweden":
+			add 1 to {sweden.count}
+			broadcast "&2Minecraft &cQuest | &f+1 punt voor zweden!" 
+command /removebingo:
+	trigger:
+		if {%player%.rank} is "netherlands":
+			remove 1 from {netherlands.count}
+			broadcast "&2Minecraft &cQuest | &f-1 punt voor nederland!" 
+		if {%player%.rank} is "sweden":
+			remove 1 from {sweden.count}
+			broadcast "&2Minecraft &cQuest | &f-1 punt voor zweden!" 
+
+command /getamount:
+	trigger:
+		if {%player%.rank} is "netherlands":
+			broadcast "&2Minecraft &cQuest | &f%{netherlands.count}%" 
+		if {%player%.rank} is "sweden":
+			broadcast "&2Minecraft &cQuest | &f%{sweden.count}%" 
+
