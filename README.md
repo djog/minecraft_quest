@@ -10,12 +10,12 @@ Minecraft team sports.
 
 ## Time schedule
 
- * Moderators will be earlier to test the server :-)
+ * 60 mins before the game, the server is open to moderators
+ * 15 mins before the game, the server is open to players
 
 From (min)|To (min)|What
 ----------|--------|------------------------
-0         |5       |Gather on server, wait until start
-5         |35      |Do objectives (i.e. the bingo card)
+0         |35      |Do objectives (i.e. the bingo card)
 35        |45      |Battle
 
 ## Points
