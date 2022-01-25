@@ -1,6 +1,6 @@
 # De Minecraft Quest
 
-![logo](pics/logo_new.png)
+![logo](pics/logo-new.png)
 
 Minecraft wedstrijd.
 
