@@ -126,8 +126,8 @@ en is in de vorm van een bingokaart.
 De 'seed' van deze bingokaart is vantevoren bekend:
 dit is de datum van de dag in JJJJMMDD,
 op de moeilijkheid Easy.
-Hier is de link voor 2020-07-09 (9 juli):
-[https://minecraftbingo.com/?s=2-0-0-3_20200709](https://minecraftbingo.com/?s=2-0-0-3_20200709).
+Hier is de link naar de bingokaart:
+https://mcquest.daanschenkel.nl/bingokaart.html (deze link gaat automatisch naar de goede bingokaart)
 Ook de Minecraft wereld heeft deze seed, zodat een team zich goed kan voorbereiden.
 
 ### Moderators
