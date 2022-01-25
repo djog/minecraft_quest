@@ -38,12 +38,12 @@ Bijeenkomsten zijn wekelijks, op donderdag, van 18:00-20:00, op Discord.
 
 Dag        |Quest                                                                             |World en bingokaart seed |Server
 -----------|----------------------------------------------------------------------------------|-------------------------|-------------------------------------------------------
-9 juli     |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200709)                            |`20200709`               |[mcquest.mc-srv.com](mcquest.mc-srv.com) (Rijk's server)
-16 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200716)                            |`20200716`               |[mcquest.joinjava.net](mcquest.joinjava.net) (De DJO server)
-23 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200723)                            |`20200723`               |[mcquest.joinjava.net](mcquest.joinjava.net) (De DJO server)
-30 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200730)                            |`20200730`               |[MCQUEST.MC-SRV.COM](MCQUEST.MC-SRV.COM) (De DJO server)
-6 augustus |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200806)                            |`20200806`               |[MCQUEST.MC-SRV.COM](MCQUEST.MC-SRV.COM) (De DJO server)
-13 augustus|[Medium](https://minecraftbingo.com/?s=2-0-0-dev_20200812) (deze is voor 2 punten!) |`20200813`               |[MCQUEST.MC-SRV.COM](MCQUEST.MC-SRV.COM) (De DJO server)
+9 juli     |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200709)                            |`20200709`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+16 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200716)                            |`20200716`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+23 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200723)                            |`20200723`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+30 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200730)                            |`20200730`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+6 augustus |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200806)                            |`20200806`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+13 augustus|[Medium](https://minecraftbingo.com/?s=2-0-0-dev_20200812) (deze is voor 2 punten!) |`20200813`               |[home.daanschenkel.nl](home.daanschenkel.nl)
 
  * We gebruiken de `dev-version` van de bingokaart
 
@@ -118,7 +118,7 @@ De wereld is verdeeld in twee helften:
 
 
 Instellen op 'Minecraft 1.18.1, stable'.
-
+(Gebruik de nieuweste versie)
 ### Quest
 
 De Quest is vantevoren bekend
@@ -133,9 +133,7 @@ Ook de Minecraft wereld heeft deze seed, zodat een team zich goed kan voorbereid
 ### Moderators
 
 Moderators zorgen ervoor dat de Minecraft server goed werkt,
-met de juiste instellingen
-
- * [GitHub website van de MCQ data pack](https://github.com/djog/MCQuest_Datapack)
+met de juiste instellingen.
 
 ### Scheidsrechters
 
@@ -156,7 +154,7 @@ Een scheidsrechter is altijd ook een moderator.
 
 ### Hoe wordt de server ingesteld?
 
- * Minecraft 1.16.2 (stable)
+ * Minecraft 1.18.1 (stable) (altijd de nieuwste versie)
  * Survival mode
  * Geen cheats
  * Geen command blocks
@@ -175,11 +173,11 @@ We pakken
 
 ### Ik heb geen Minecraft
 
-Je kan nog steeds mee doen als je komt naar de DJOG
+Dan kan je helaas niet meedoen.
 
 ### Ik heb geen Minecraft Java Edition
 
-Je kan nog steeds mee doen als je komt naar de DJOG
+Dan kan je helaas niet meedoen.
 
 ### Voor welke leeftijd is dit?
 
@@ -195,10 +193,7 @@ Prima, email De Jonge Onderzoekers op `info@dejongeonderzoekers.nl`
 
 ### Hoe werkt de server?
 
-We maken gebruik van onze zelf gemaakte datapack!
-
-[Zie hier](https://github.com/djog/MCQuest_Datapack)
-
+We maken gebruik van verschillende plugins gemaakt door [Daan](https://github.com/daanschenkel), deze zijn niet openbaar wegens mogelijke foutjes in het script.
 ## Video's
 
  * Eerste try-out: [YouTube](https://youtu.be/xq_MknF9lyY) [Download](http://richelbilderbeek.nl/minecraft_quest_20200531.mp4 )(31 mei 2020, dank aan Rijk van Putten)
@@ -206,7 +201,6 @@ We maken gebruik van onze zelf gemaakte datapack!
 
 ### Links
 
- * [Minecraft Quest fansite](http://mcquest.is-great.net)
  * [Minecraft Quest YouTube kanaal](https://youtu.be/MAWhR-EyciM)
 
 ## Screenshots
