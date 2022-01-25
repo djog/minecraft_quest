@@ -16,13 +16,13 @@ Minecraft wedstrijd.
 
 ### Moderators
 
- * Daan: Team Blauw
- * Youri: Team Rood
+ * Daan : Team Nederland
+ * Rohan?: Team Zweden
 
 ### Teamcaptains
 
- * Joshua: Team Blauw
- * Rijk en Rafayel: Team Rood
+ * Joshua en Rijk: Team nederland
+ * ?: Team Zweden
 
 ## Hoe
 
@@ -115,11 +115,9 @@ De wereld is verdeeld in twee helften:
 
 ### Servers
 
- * [mcquest.joinjava.net](mcquest.joinjava.net): DJO server
- * [mcquest.mc-srv.com](mcquest.mc-srv.com): Rijk's server,
- * [djogmcquest.mc-srv.com](djogmcquest.mc-srv.com): Daan's server
 
-Instellen op 'Minecraft 1.16.1, stable'.
+
+Instellen op 'Minecraft 1.18.1, stable'.
 
 ### Quest
 
