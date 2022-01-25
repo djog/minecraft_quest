@@ -2,33 +2,49 @@
 
 ![logo](pics/logo-new-small.png)
 
-Minecraft wedstrijd.
+Minecraft team sports.
 
-## Doel
+## Goal
 
- * Samenwerken
+ * Work together to do as much objectives as possible
 
-## Rollen
+## Time schedule
 
-### Scheidsrechter
+ * Moderators will be earlier to test the server :-)
+
+From (min)|To (min)|What
+----------|--------|------------------------
+0         |5       |Gather on server, wait until start
+5         |35      |Do objectives (i.e. the bingo card)
+35        |45      |Battle
+
+## Points
+
+ * +1: per bingo card objective
+ * +5: per row/column/diagonal on bingo card 
+ * +5: win the final battle
+
+## Roles
+
+### Referee
 
  * Richel
 
 ### Moderators
 
  * Daan : Team Nederland
- * Rohan?: Team Zweden
+ * Chris: Team Zweden
 
 ### Teamcaptains
 
- * Joshua en Rijk: Team nederland
- * ?: Team Zweden
+ * Joshua en Rijk: Team Netherlands
+ * ?Gunnar/?Odette: Team Sweden
 
-## Hoe
+## How
 
-### Meedoen
+### Join
 
-Druk hieronder om de server te joinen:
+Click here to join the Discord server:
 
 [![Discord](https://img.shields.io/discord/934473154074644480?label=DISCORD&logo=discord&style=for-the-badge)](https://discord.gg/88evMPhAaN)
 
