@@ -163,10 +163,6 @@ Een scheidsrechter is altijd ook een moderator.
 
 Deze tijd is expres kort, zodat je wel goed samen moet werken.
 
-### Hoe worden de quests bepaalt?
-
-We pakken
-
 ### Wat is het maximaal aantal spelers?
 
 16.
