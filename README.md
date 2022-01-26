@@ -218,46 +218,5 @@ We maken gebruik van verschillende plugins gemaakt door [Daan](https://github.co
 
 ## Screenshots
 
-### 20200621
+See [2020](2020) for screenshots of the first MCQ
 
-![](pics/20200621/1.png)
-![](pics/20200621/2.png)
-![](pics/20200621/3.png)
-![](pics/20200621/4.png)
-![](pics/20200621/5.png)
-![](pics/20200621/6.png)
-![](pics/20200621/7.png)
-![](pics/20200621/8.png)
-![](pics/20200621/9.png)
-![](pics/20200621/10.png)
-![](pics/20200621/11.png)
-![](pics/20200621/12.png)
-![](pics/20200621/13.png)
-![](pics/20200621/14.png)
-![](pics/20200621/15.png)
-![](pics/20200621/16.png)
-![](pics/20200621/17.png)
-![](pics/20200621/18.png)
-![](pics/20200621/19.png)
-
-### 20200614
-
-Screenshots van de try-out van 14 juni 2020.
-
-![](pics/20200614/bingo_team_rood.png)
-
-![](pics/20200614/de_machtige_scheidsrechter.png)
-
-![](pics/20200614/team_blauw_heeft_een_dorp.png)
-
-![](pics/20200614/team_blauw_in_bad.png)
-
-![](pics/20200614/team_blauw_mod_volgt.png)
-
-![](pics/20200614/team_blauw_slaapt.png)
-
-![](pics/20200614/team_rood_is_gewond.png)
-
-![](pics/20200614/team_rood_mod_volgt.png)
-
-![](pics/20200614/team_rood_slaapt.png)
