@@ -34,7 +34,7 @@ From (min)|To (min)|What
 ### Moderators
 
  * Daan : Team Nederland
- * Chris: Team Zweden
+ * Chris: Team Sweden
 
 ### Teamcaptains
 
@@ -51,7 +51,7 @@ Click here to join the Discord server:
 
 ### Bijeenkomst
 
-Bijeenkomsten zijn wekelijks, op donderdag, van 18:00-20:00, op Discord.
+## THIS INFORMATION IS OUTDATED!
 
 Dag        |Quest                                                                             |World en bingokaart seed |Server
 -----------|----------------------------------------------------------------------------------|-------------------------|-------------------------------------------------------
