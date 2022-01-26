@@ -206,7 +206,7 @@ Prima, email De Jonge Onderzoekers op `info@dejongeonderzoekers.nl`
 
 ### Hoe werkt de server?
 
-We maken gebruik van verschillende plugins gemaakt door [Daan](https://github.com/daanschenkel), deze zijn niet openbaar wegens mogelijke foutjes in het script.
+We're using multiple plugins made by [Daan](https://github.com/daanschenkel), you can find those in the repository.
 ## Video's
 
  * Eerste try-out: [YouTube](https://youtu.be/xq_MknF9lyY) [Download](http://richelbilderbeek.nl/minecraft_quest_20200531.mp4 )(31 mei 2020, dank aan Rijk van Putten)
@@ -214,7 +214,7 @@ We maken gebruik van verschillende plugins gemaakt door [Daan](https://github.co
 
 ### Links
 
- * [Minecraft Quest YouTube kanaal](https://youtu.be/MAWhR-EyciM)
+ * [Minecraft Quest YouTube kanaal](https://www.youtube.com/channel/UCkhQIR-X6Xx11VRZV9co-lA)
 
 ## Screenshots
 
