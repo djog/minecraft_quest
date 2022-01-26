@@ -110,112 +110,91 @@ Dag        |Team Blauw        |Team Rood
 
 Dit is het tijdschema:
 
-Tijd       |Taak
------------|---------------------------
-18:00-18:15|Binnenkomst
-18:15-18:45|Server open: warming up
-18:45-19:00|Server dicht, voor herstart met nieuwe wereld
-19:00-20:00|Server open, teams stellen zich op, start wedstrijd
-20:00-20:05|Winnaar wordt bekend gemaakt
+Time              |Task
+------------------|---------------------------
+0 to 30 minutes   | Bingocard
+0 to 30 minutes   | Fight
 
-Elk team heeft een eigen voicechatkanaal op de De Jonge Onderzoekers
-Discord server.
 
 ### Teams
 
-Er zijn twee teams: het rode en blauwe team.
+There are 2 teams: Netherlands and Sweden
 
-De wereld is verdeeld in twee helften:
-
- * `Rood`: gaat Rechts oftwel oostwaards
- * `blauW`: gaat West oftewel links
+De world is devided in half:
+ * `Netherlands`: goes (N)orth
+ * `Sweden`: Goes (S)outh
 
 ### Servers
 
 
 
-Instellen op 'Minecraft 1.18.1, stable'.
-(Gebruik de nieuweste versie)
+Use 'Minecraft 1.18.1, stable'.
 ### Quest
 
-De Quest is vantevoren bekend
-en is in de vorm van een bingokaart.
-De 'seed' van deze bingokaart is vantevoren bekend:
-dit is de datum van de dag in JJJJMMDD,
-op de moeilijkheid Easy.
-Hier is de link naar de bingokaart:
-https://mcquest.daanschenkel.nl/bingokaart.html (deze link gaat automatisch naar de goede bingokaart)
-Ook de Minecraft wereld heeft deze seed, zodat een team zich goed kan voorbereiden.
+The quest is known beforehand and is a bingocard.
+The seed of the bingocard is known beforehand:
+Its the day of the year in the following format: YYYYMMDD,
+On Easy mode.
+Here's a link to the bingocard:
+https://mcquest.daanschenkel.nl/bingokaart.html (Caution: This will lead to the bingocard of the day you're clicking on it. NOT the day of the next quest!)
+The Minecraft seed is the same, so the teams can prepare.
+### Moderators and Referees
+Moderators and Referees make the server run smoothly and lead the event, if you have questions, ask them!
 
-### Moderators
+### Behavior
 
-Moderators zorgen ervoor dat de Minecraft server goed werkt,
-met de juiste instellingen.
-
-### Scheidsrechters
-
-Scheidsrechters spelen in 'spectator mode'.
-Je kunt ze niet zien.
-
-Een scheidsrechter is altijd ook een moderator.
-
-### Gedrag
-
- * Gedraag je als een goed teamlid
- * Teams zijn gescheiden
- * We zijn zuinig op de spullen van het team
- * Het gebruik maken van cheats/mods/hacked clients is niet toegestaan!
-   Alleen optifine is eventueel toegestaan!
+ * Behave as a good team member
+ * Teams both have half of the world.
+ * We dont steal from our team and be respectful to our team members.
+ * The usage of any (hacked) clients are strictly forbidden. The only clients that are allowed are fps boosters such as optifine. NO waypoints, minimaps and such.
 
 ## FAQ
 
-### Hoe wordt de server ingesteld?
+### What are the settings?
 
- * Minecraft 1.18.1 (stable) (altijd de nieuwste versie)
+ * Minecraft 1.18.1 (stable) (always the newest version)
  * Survival mode
- * Geen cheats
+ * Easy mode
  * Geen command blocks
 
-### Waarom zo kort?
+### Why so short?
 
-Deze tijd is expres kort, zodat je wel goed samen moet werken.
+Its intentionally so you have to work with your team.
 
-### Wat is het maximaal aantal spelers?
+### What is the maximum amount of players?
 
 16.
 
-### Ik heb geen Minecraft
+### I dont have Minecraft
 
-Dan kan je helaas niet meedoen.
+Then you cannot participate
 
-### Ik heb geen Minecraft Java Edition
+### I dont have Minecraft Java
 
-Dan kan je helaas niet meedoen.
-We gaan proberen de server op Bedrock te laten werken, maar niks is nog zeker.
+Then you cannot participate.
 
-### Voor welke leeftijd is dit?
+We might be adding support for Bedrock, but we're not sure
 
-Van 8 t/m 18 jaar.
+### Whats the age limit?
 
-### Ik wil meedoen, maar ik ben geen deelnemer van De Jonge Onderzoekers
+8/18 years.
 
-Geen probleem: als er plek is, ben je welkom om mee te doen.
 
-### Ik heb alsnog een vraag
+### I have a question
 
-Prima, email De Jonge Onderzoekers op `info@dejongeonderzoekers.nl`
+Join the Discord or make an issue on GitHub
 
-### Hoe werkt de server?
+### How does the server work?
 
 We're using multiple plugins made by [Daan](https://github.com/daanschenkel), you can find those in the repository.
 ## Video's
 
- * Eerste try-out: [YouTube](https://youtu.be/xq_MknF9lyY) [Download](http://richelbilderbeek.nl/minecraft_quest_20200531.mp4 )(31 mei 2020, dank aan Rijk van Putten)
- * Tweede testrun: [YouTube](https://youtu.be/8OzPmMhnrKQ) [Download](http://richelbilderbeek.nl/minecraft_quest_20200607.mp4) (7 juni 2020, dank aan Daan Schenkel)
+ * First try-out (old): [YouTube](https://youtu.be/xq_MknF9lyY) [Download](http://richelbilderbeek.nl/minecraft_quest_20200531.mp4 )(31 may 2020, thanks Rijk van Putten)
+ * Second testrun: [YouTube](https://youtu.be/8OzPmMhnrKQ) [Download](http://richelbilderbeek.nl/minecraft_quest_20200607.mp4) (7 june 2020, thanks Daan Schenkel)
 
 ### Links
 
- * [Minecraft Quest YouTube kanaal](https://www.youtube.com/channel/UCkhQIR-X6Xx11VRZV9co-lA)
+ * [Minecraft Quest YouTube channel](https://www.youtube.com/channel/UCkhQIR-X6Xx11VRZV9co-lA)
 
 ## Screenshots
 
