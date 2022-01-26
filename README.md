@@ -1,6 +1,7 @@
-# De Minecraft Quest
-
 ![logo](pics/logo-new-small.png)
+
+# Minecraft Quest
+
 
 Minecraft team sports.
 
