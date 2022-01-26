@@ -53,7 +53,7 @@ Click here to join the Discord server:
 
 ## THIS INFORMATION IS OUTDATED!
 
-Dag        |Quest                                                                             |World en bingokaart seed |Server
+Day        |Quest                                                                             |World en bingocard seed  |Server
 -----------|----------------------------------------------------------------------------------|-------------------------|-------------------------------------------------------
 9 juli     |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200709)                            |`20200709`               |[home.daanschenkel.nl](home.daanschenkel.nl)
 16 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200716)                            |`20200716`               |[home.daanschenkel.nl](home.daanschenkel.nl)
@@ -62,44 +62,40 @@ Dag        |Quest                                                               
 6 augustus |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200806)                            |`20200806`               |[home.daanschenkel.nl](home.daanschenkel.nl)
 13 augustus|[Medium](https://minecraftbingo.com/?s=2-0-0-dev_20200812) (deze is voor 2 punten!) |`20200813`               |[home.daanschenkel.nl](home.daanschenkel.nl)
 
- * We gebruiken de `dev-version` van de bingokaart
-
+ * We use the `dev-version` of the bingocard
 ### Teams
+## THIS INFORMATION IS OUTDATED!
 
-Deelnemer|Team  |Score|Opmerkingen
----------|------|-----|-----------
-Joshua   |Blauw | 0/2 |Captain
-Mia      |Blauw | 1/6 |Speler
-Quinn    |Blauw | 1/7 |Speler
-Rashid   |Blauw | 0/2 |Speler
-Rymer    |Blauw | 0/1 |Speler
-Julian   |Blauw |   . |Speler
-Youri    |Blauw | 1/1 |reserve-speler
-.        |Blauw |   . |.
-.        |Blauw |   . |.
-.        |Blauw |   . |.
-Rijk     |Rood  | 5/5 |Captain, behalve 16 en 23 juli
-Rafayel  |Rood  |   . |Captain, op 16 en 23 juli
-Erryn    |Rood  | 1/1 |Speler
-Jesse    |Rood  | 3/6 |Speler
-Tesse    |Rood  | 1/1 |Speler
-Jamie    |Rood  | 3/3 |Speler
-Willem   |Rood  | 6/6 |Speler
-.        |Rood  |   . |.
-.        |Rood  |   . |.
-.        |Rood  |   . |.
-Daan     |-     | Inf |Moderator
-Youri    |-     | Inf |Moderator
-Richel   |-     | Inf |Scheidsrechter
-
- * Je score is persoonlijk. Het eerste getal is het aantal punten dat je
-   hebt gehaald, als lid van een winnend team. Het tweede getal is het
-   maximum aantal punten dat je hebt kunnen halen.
-   Op deze manier maakt het niet uit als je van team wisselt
+Participant|Team  |Score|Comments
+---------- |------|-----|-----------
+Joshua     |Blauw | 0/2 |Captain
+Mia        |Blauw | 1/6 |Speler
+Quinn      |Blauw | 1/7 |Speler
+Rashid     |Blauw | 0/2 |Speler
+Rymer      |Blauw | 0/1 |Speler
+Julian     |Blauw |   . |Speler
+Youri      |Blauw | 1/1 |reserve-speler
+.          |Blauw |   . |.
+.          |Blauw |   . |.
+.          |Blauw |   . |.
+Rijk       |Rood  | 5/5 |Captain, behalve 16 en 23 juli
+Rafayel    |Rood  |   . |Captain, op 16 en 23 juli
+Erryn      |Rood  | 1/1 |Speler
+Jesse      |Rood  | 3/6 |Speler
+Tesse      |Rood  | 1/1 |Speler
+Jamie      | Rood  | 3/3 |Speler
+Willem     |Rood  | 6/6 |Speler
+.          |Rood  |   . |.
+.          |Rood  |   . |.
+.          |Rood  |   . |.
+Daan       |-     | Inf |Moderator
+Youri      |-     | Inf |Moderator
+Richel     |-     | Inf |Scheidsrechter
 
 ### Teamcaptains
+## THIS INFORMATION IS OUTDATED!
 
-Dag        |Team Blauw        |Team Rood
+Day        |Team Netherlands  |Team Sweden
 -----------|------------------|-----------------
 9 juli     |Joshua            |Rijk
 16 juli    |Joshua            |Rafayel
@@ -108,7 +104,7 @@ Dag        |Team Blauw        |Team Rood
 6 augustus |Joshua            |Rijk
 13 augustus|Joshua            |Rijk
 
-Dit is het tijdschema:
+This is the planning:
 
 Time              |Task
 ------------------|---------------------------
