@@ -1,4 +1,4 @@
-	![logo](pics/logo-new-small.png)
+![logo](pics/logo-new-small.png)
 
 # Minecraft Quest
 
