@@ -42,7 +42,7 @@ A moderator is invisible, can freely move around, cannot modify the world.
 
 ### Teamcaptain
 
- * Rijk/Joshua/: Team Netherlands
+ * Rijk/Joshua: Team Netherlands
  * Egon: Team Sweden
 
 A team captain is invisible, can freely move around, cannot modify the world.
@@ -82,11 +82,10 @@ De world is devided in half:
 Participant|Team  |Score|Comments
 ---------- |------|-----|-----------
 .          |NL    |.    |.
-.          |SW|   |.    |.
-Daan       |-     | Inf |Moderator
-Youri      |-     | Inf |Moderator
-Richel     |-     | Inf |Scheidsrechter
-
+.          |SW    |.    |.
+Daan       |-     | Inf |Moderator Netherlands
+Christiaan |-     | Inf |Moderator Sweden
+Richel     |-     | Inf |Referee
 
 ### Servers
 
