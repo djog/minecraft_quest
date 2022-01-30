@@ -2,12 +2,24 @@
 
 # Minecraft Quest
 
-
 Minecraft team sports.
 
 ## Goal
 
  * Work together to do as much objectives as possible
+
+## What is Minecraft Quest?
+
+Minecraft Quest is a team sports within the world of Minecraft,
+in which a team tries to score as much points as possible.
+
+The tasks to get points are known beforehand,
+in the form of a bingocard, e.g. [here](https://mcquest.daanschenkel.nl/bingokaart.html),
+with task such as 'Collect 10 apples', 'Kill
+5 zombies', etc.
+
+Both the world seed and the bingocard seed are known beforehand, so that the
+teams can practice.
 
 ## Time schedule
 
@@ -91,16 +103,8 @@ Richel     |-     | Inf |Referee
 
 Use 'Minecraft 1.18.1, stable'.
 
-### Quest
-
-The quest is known beforehand and is a bingocard.
-The seed of the bingocard is known beforehand:
-Its the day of the year in the following format: YYYYMMDD,
-On Easy mode.
-Here's a link to the bingocard:
-https://mcquest.daanschenkel.nl/bingokaart.html (Caution: This will lead to the bingocard of the day you're clicking on it. NOT the day of the next quest!)
-The Minecraft seed is the same, so the teams can prepare.
 ### Moderators and Referees
+
 Moderators and Referees make the server run smoothly and lead the event, if you have questions, ask them!
 
 ### Behavior
@@ -140,7 +144,6 @@ We might be adding support for Bedrock, but we're not sure
 ### Whats the age limit?
 
 8/18 years.
-
 
 ### I have a question
 
