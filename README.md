@@ -194,5 +194,5 @@ We're using multiple plugins made by [Daan](https://github.com/daanschenkel), yo
 
 ## Screenshots
 
-See [2020](2020) for screenshots of the first MCQ
+See [2020.md](2020.md) for screenshots of the first MCQ
 
