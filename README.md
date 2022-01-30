@@ -49,21 +49,22 @@ Click here to join the Discord server:
 
 [![Discord](https://img.shields.io/discord/934473154074644480?label=DISCORD&logo=discord&style=for-the-badge)](https://discord.gg/88evMPhAaN)
 
-### Bijeenkomst
+### Meeting
 
-## THIS INFORMATION IS OUTDATED!
-
-Day        |Quest                                                                             |World en bingocard seed  |Server
------------|----------------------------------------------------------------------------------|-------------------------|-------------------------------------------------------
-9 juli     |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200709)                            |`20200709`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-16 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200716)                            |`20200716`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-23 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200723)                            |`20200723`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-30 juli    |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200730)                            |`20200730`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-6 augustus |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200806)                            |`20200806`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-13 augustus|[Medium](https://minecraftbingo.com/?s=2-0-0-dev_20200812) (deze is voor 2 punten!) |`20200813`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+Day      |Quest                                                    |World en bingocard seed  |Server
+---------|---------------------------------------------------------|-------------------------|-------------------------------------------------------
+16 juli  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200716) |`20200716`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+23 juli  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200723) |`20200723`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+30 juli  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200730) |`20200730`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+06 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200806) |`20200806`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+13 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200813) |`20200813`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+20 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200820) |`20200820`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+27 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200827) |`20200827`               |[home.daanschenkel.nl](home.daanschenkel.nl)
 
  * We use the `dev-version` of the bingocard
+
 ### Teams
+
 ## THIS INFORMATION IS OUTDATED!
 
 Participant|Team  |Score|Comments
