@@ -1,4 +1,4 @@
-![logo](pics/logo-new-small.png)
+	![logo](pics/logo-new-small.png)
 
 # Minecraft Quest
 
@@ -65,67 +65,25 @@ Day      |Quest                                                    |World en bin
 
 ### Teams
 
-## THIS INFORMATION IS OUTDATED!
-
-Participant|Team  |Score|Comments
----------- |------|-----|-----------
-Joshua     |Blauw | 0/2 |Captain
-Mia        |Blauw | 1/6 |Speler
-Quinn      |Blauw | 1/7 |Speler
-Rashid     |Blauw | 0/2 |Speler
-Rymer      |Blauw | 0/1 |Speler
-Julian     |Blauw |   . |Speler
-Youri      |Blauw | 1/1 |reserve-speler
-.          |Blauw |   . |.
-.          |Blauw |   . |.
-.          |Blauw |   . |.
-Rijk       |Rood  | 5/5 |Captain, behalve 16 en 23 juli
-Rafayel    |Rood  |   . |Captain, op 16 en 23 juli
-Erryn      |Rood  | 1/1 |Speler
-Jesse      |Rood  | 3/6 |Speler
-Tesse      |Rood  | 1/1 |Speler
-Jamie      | Rood  | 3/3 |Speler
-Willem     |Rood  | 6/6 |Speler
-.          |Rood  |   . |.
-.          |Rood  |   . |.
-.          |Rood  |   . |.
-Daan       |-     | Inf |Moderator
-Youri      |-     | Inf |Moderator
-Richel     |-     | Inf |Scheidsrechter
-
-### Teamcaptains
-## THIS INFORMATION IS OUTDATED!
-
-Day        |Team Netherlands  |Team Sweden
------------|------------------|-----------------
-9 juli     |Joshua            |Rijk
-16 juli    |Joshua            |Rafayel
-23 juli    |Joshua            |Rafayel
-30 juli    |Joshua            |Rijk
-6 augustus |Joshua            |Rijk
-13 augustus|Joshua            |Rijk
-
-This is the planning:
-
-Time              |Task
-------------------|---------------------------
-0 to 30 minutes   | Bingocard
-0 to 30 minutes   | Fight
-
-
-### Teams
-
 There are 2 teams: Netherlands and Sweden
 
 De world is devided in half:
  * `Netherlands`: goes (N)orth
  * `Sweden`: Goes (S)outh
 
+Participant|Team  |Score|Comments
+---------- |------|-----|-----------
+.          |NL    |.    |.
+.          |SW|   |.    |.
+Daan       |-     | Inf |Moderator
+Youri      |-     | Inf |Moderator
+Richel     |-     | Inf |Scheidsrechter
+
+
 ### Servers
 
-
-
 Use 'Minecraft 1.18.1, stable'.
+
 ### Quest
 
 The quest is known beforehand and is a bingocard.
