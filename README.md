@@ -31,15 +31,23 @@ From (min)|To (min)|What
 
  * Richel
 
+A referee is invisible, can freely move around, cannot modify the world.
+
 ### Moderators
 
  * Daan : Team Nederland
  * Chris: Team Sweden
 
-### Teamcaptains
+A moderator is invisible, can freely move around, cannot modify the world.
 
- * Joshua en Rijk: Team Netherlands
- * ?Gunnar/?Odette: Team Sweden
+### Teamcaptain
+
+ * Rijk/Joshua/: Team Netherlands
+ * Egon: Team Sweden
+
+A team captain is invisible, can freely move around, cannot modify the world.
+
+ * [This Issue is under discussion](https://github.com/djog/minecraft_quest/issues/11)
 
 ## How
 
