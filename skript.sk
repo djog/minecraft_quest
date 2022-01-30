@@ -194,7 +194,7 @@ command /start:
 		set {ended} to false
 		loop 100 times:
 			set bossbar "bossbar" value to (100 - loop-number)
-			wait 1.5 seconds # 100 * 9sec = 15 minutes
+			wait 18 seconds # 100 * 9sec = 15 minutes
 		remove bossbar "bossbar"
 		broadcast "&2Minecraft &cQuest | &fFight" 
 		create bossbar titled "&2Minecraft &cQuest | &fFight" and id "bossbar" for all players with progress 100 with colors blue
