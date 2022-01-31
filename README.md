@@ -43,23 +43,27 @@ From (min)|To (min)|What
 
  * Richel
 
-A referee is invisible, can freely move around, cannot modify the world.
+The purpose of a referee is to ensure the game is played fairly.
+A referee is invisible, can freely move around and cannot modify the world.
 
 ### Moderators
 
  * Daan : Team Nederland
  * Chris: Team Sweden
 
-A moderator is invisible, can freely move around, cannot modify the world.
+The purpose of the moderators is to make the server run smoothly
+and that the game can be played fairly and with as little as possible.
+
+A moderator is invisible, can freely move around and cannot modify the world.
 
 ### Teamcaptain
 
  * Rijk/Joshua: Team Netherlands
  * Egon: Team Sweden
 
-A team captain is invisible, can freely move around, cannot modify the world.
+The purpose of the teamcaptains is to steer the team in working together.
 
- * [This Issue is under discussion](https://github.com/djog/minecraft_quest/issues/11)
+A team captain is a regular player.
 
 ## How
 
@@ -91,28 +95,30 @@ De world is devided in half:
  * `Netherlands`: goes (N)orth
  * `Sweden`: Goes (S)outh
 
-Participant|Team  |Score|Comments
----------- |------|-----|-----------
-.          |NL    |.    |.
-.          |SW    |.    |.
-Daan       |-     | Inf |Moderator Netherlands
-Christiaan |-     | Inf |Moderator Sweden
-Richel     |-     | Inf |Referee
+Participant|Team  |Minecraft username|Role
+---------- |------|------------------|-------------------
+Rijk       |NL    |.                 |Teamcaptain
+Joshua     |NL    |.                 |Reserve teamcaptain
+.          |NL    |.                 |.
+Egon       |SW    |.                 |.
+.          |SW    |.                 |.
+.          |SW    |.                 |.
+Daan       |-     |`DaanDeBanaan`    |Moderator Netherlands
+Christiaan |-     |`decommandpro`    |Moderator Sweden
+Richel     |-     |`richelbilderbeek`|Referee
 
 ### Servers
 
 Use 'Minecraft 1.18.1, stable'.
 
-### Moderators and Referees
-
-Moderators and Referees make the server run smoothly and lead the event, if you have questions, ask them!
-
 ### Behavior
 
  * Behave as a good team member
  * Teams both have half of the world.
- * We dont steal from our team and be respectful to our team members.
- * The usage of any (hacked) clients are strictly forbidden. The only clients that are allowed are fps boosters such as optifine. NO waypoints, minimaps and such.
+ * We don't steal from our team and be respectful to our team members.
+ * The usage of any (hacked) clients are strictly forbidden. 
+   The only clients that are allowed are fps boosters such as optifine. 
+   NO waypoints, minimaps and such.
 
 ## FAQ
 
@@ -121,7 +127,7 @@ Moderators and Referees make the server run smoothly and lead the event, if you 
  * Minecraft 1.18.1 (stable) (always the newest version)
  * Survival mode
  * Easy mode
- * Geen command blocks
+ * No command blocks
 
 ### Why so short?
 
@@ -143,15 +149,17 @@ We might be adding support for Bedrock, but we're not sure
 
 ### Whats the age limit?
 
-8/18 years.
+From 8 to (and including) 18 years.
 
 ### I have a question
 
-Join the Discord or make an issue on GitHub
+Join the Discord or make an issue on GitHub.
 
 ### How does the server work?
 
-We're using multiple plugins made by [Daan](https://github.com/daanschenkel), you can find those in the repository.
+We're using multiple plugins made by [Daan](https://github.com/daanschenkel), 
+you can find those in the repository.
+
 ## Video's
 
  * First try-out (old): [YouTube](https://youtu.be/xq_MknF9lyY) [Download](http://richelbilderbeek.nl/minecraft_quest_20200531.mp4 )(31 may 2020, thanks Rijk van Putten)
