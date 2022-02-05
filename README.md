@@ -77,13 +77,13 @@ Click here to join the Discord server:
 
 Day      |Quest                                                    |World en bingocard seed  |Server
 ---------|---------------------------------------------------------|-------------------------|-------------------------------------------------------
-16 juli  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200716) |`20200716`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-23 juli  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200723) |`20200723`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-30 juli  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200730) |`20200730`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-06 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200806) |`20200806`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-13 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200813) |`20200813`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-20 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200820) |`20200820`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-27 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20200827) |`20200827`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+16 juli  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220716) |`20220716`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+23 juli  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220723) |`20220723`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+30 juli  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220730) |`20220730`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+06 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220806) |`20220806`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+13 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220813) |`20220813`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+20 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220820) |`20220820`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+27 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220827) |`20220827`               |[home.daanschenkel.nl](home.daanschenkel.nl)
 
  * We use the `dev-version` of the bingocard
 
