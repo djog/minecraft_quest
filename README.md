@@ -13,31 +13,30 @@ Minecraft team sports.
 Minecraft Quest is a team sports within the world of Minecraft,
 in which a team tries to score as much points as possible.
 
+![](pics/20200621/6.png)
+
+> Two team members working together
+
 The tasks to get points are known beforehand,
 in the form of a bingocard, e.g. [here](https://mcquest.daanschenkel.nl/bingokaart.html),
 with task such as 'Collect 10 apples', 'Kill
 5 zombies', etc.
 
+![](pics/20200614/bingo_team_rood.png)
+
+> An example bingo card
+
 Both the world seed and the bingocard seed are known beforehand, so that the
 teams can practice.
 
-Here is an example bingo card:
-
-![](pics/20200614/bingo_team_rood.png)
-
-Here is a screenshot where you see two team members working together:
-
-![](pics/20200621/6.png)
-
 ## Time schedule
 
- * 60 mins before the game, the server is open to moderators
- * 15 mins before the game, the server is open to players
-
-From (min)|To (min)|What
+From      |To      |What
 ----------|--------|------------------------
-0         |35      |Do objectives (i.e. the bingo card)
-35        |45      |Battle
+10:00     |11:00   |Server open to moderators
+11:00     |11:15   |Server open to players
+11:15     |11:50   |Do objectives (i.e. the bingo card)
+11:50     |12:00   |Final battle
 
 ## Points
 
