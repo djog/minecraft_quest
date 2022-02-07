@@ -81,7 +81,15 @@ Click here to join the Discord server:
 
 [![Discord](https://img.shields.io/discord/934473154074644480?label=DISCORD&logo=discord&style=for-the-badge)](https://discord.gg/88evMPhAaN)
 
-### Meeting
+### Schedule
+
+#### Try-outs
+
+Day      |Quest                                                    |World en bingocard seed  |Server
+---------|---------------------------------------------------------|-------------------------|-------------------------------------------------------
+5 march  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220305) |`20220305`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+
+#### Competition
 
 Day      |Quest                                                    |World en bingocard seed  |Server
 ---------|---------------------------------------------------------|-------------------------|-------------------------------------------------------
