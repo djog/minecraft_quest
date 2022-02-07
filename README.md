@@ -21,6 +21,14 @@ with task such as 'Collect 10 apples', 'Kill
 Both the world seed and the bingocard seed are known beforehand, so that the
 teams can practice.
 
+Here is an example bingo card:
+
+![](pics/20200614/bingo_team_rood.png)
+
+Here is a screenshot where you see two team members working together:
+
+![](pics/20200621/6.png)
+
 ## Time schedule
 
  * 60 mins before the game, the server is open to moderators
@@ -161,6 +169,7 @@ We're using multiple plugins made by [Daan](https://github.com/daanschenkel),
 you can find those in the repository.
 
 ## Video's
+
 
  * First try-out (old): [YouTube](https://youtu.be/xq_MknF9lyY) [Download](http://richelbilderbeek.nl/minecraft_quest_20200531.mp4 )(31 may 2020, thanks Rijk van Putten)
  * Second testrun: [YouTube](https://youtu.be/8OzPmMhnrKQ) [Download](http://richelbilderbeek.nl/minecraft_quest_20200607.mp4) (7 june 2020, thanks Daan Schenkel)
