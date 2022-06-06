@@ -165,10 +165,13 @@ command /waiting:
 on join:
 	if {status} is "waiting":
 		execute console command "tp %player% 0 200 0"
-		set {%player%.fallen} to false		
+		set {%player%.fallen} to false
+		send player title "&2Minecraft &cQuest" with subtitle "Welcome! The event will begin soon." for 7 seconds
+		apply blindness 10 to the player for 9 seconds
 command /start:
 	trigger:
 		{%player%.rank} is "mod"
+		set {clickedstart} to true
 		create bossbar titled "&2Minecraft &cQuest | &fPre-game" and id "bossbar" for all players with progress 100 with colors blue
 		set {dontrep} to true
 		execute console command "fill 5 150 5 -5 150 -5 white_stained_glass"
@@ -222,7 +225,7 @@ command /start:
 		set {status} to "ingame"
 		set {netherlands.count} to 0
 		set {sweden.count} to 0
-		
+		set {clickedstart} to false
 		execute console command "worldborder set 10000 0"
 		remove bossbar "bossbar"
 		create bossbar titled "&2Minecraft &cQuest | &fIn-game" and id "bossbar" for all players with progress 100 with colors blue
@@ -240,8 +243,7 @@ command /start:
 		set {ended} to false
 		loop 100 times:
 			set bossbar "bossbar" value to (100 - loop-number)
-			#wait 18 seconds # 100 * 18sec = 30 minutes
-			wait 0.1 seconds
+			wait 27 seconds # 100 * 27sec = 35 minutes
 		remove bossbar "bossbar"
 		broadcast "&2Minecraft &cQuest | &fFight" 
 		create bossbar titled "&2Minecraft &cQuest | &fFight" and id "bossbar" for all players with progress 100 with colors blue
@@ -453,7 +455,6 @@ every second:
 			else: 
 				broadcast "&2Minecraft &cQuest | &fSweden!" 
 				send all players title "&2Minecraft &cQuest" with subtitle "&fSweden!" for 10 seconds
-
 		execute console command "worldborder set 200 0"
 		loop all players:
 			if gamemode of loop-player is survival or adventure:
@@ -470,6 +471,11 @@ every second:
 
 		wait 5 seconds
 		wait 4 seconds
+		set {nomove} to true
+
+		apply blindness 10 to all players for 40 seconds
+		execute console command "playsound minecraft:music_disc.mellohi master @a 0 0 0 1 1 1"
+
 		send all players title "&2Moderation &cTeam" with subtitle "&fDaan" for 2 seconds
 		wait 3 seconds
 		send all players title "&2Moderation &cTeam" with subtitle "&fChristiaan" for 2 seconds
@@ -491,6 +497,7 @@ every second:
 		send all players title "&2And lastly..." with subtitle "?" for 5 seconds
 		wait 6 seconds
 		send all players title "&2You" with subtitle "&ffor playing :)" for 10 seconds
+		set {nomove} to false
 		
 		
 		
@@ -528,16 +535,19 @@ every second:
 				clear inventory of all players
 				set gamemode of loop-player to adventure
 				execute console command "tp @a %loop-player%"
-				execute console command "playsound minecraft:music_disc.mellohi master @a 0 0 0 1 1 1"
 				remove bossbar "bossbar"
 				create bossbar titled "&2Minecraft &cQuest | &fPost-game" and id "bossbar" for all players with progress 100 with colors blue
 				set {status} to "postgame"
 		wait 12 seconds				
 		broadcast "&2Minecraft &cQuest | &fThank you for playing!"
 		send all players title "&2Minecraft &cQuest" with subtitle "&fThank you for playing!" for 3 seconds
-
 		wait 5 seconds
 		wait 4 seconds
+		set {nomove} to true
+
+		apply blindness 10 to all players for 40 seconds
+		execute console command "playsound minecraft:music_disc.mellohi master @a 0 0 0 1 1 1"
+
 		send all players title "&2Moderation &cTeam" with subtitle "&fDaan" for 2 seconds
 		wait 3 seconds
 		send all players title "&2Moderation &cTeam" with subtitle "&fChristiaan" for 2 seconds
@@ -559,8 +569,11 @@ every second:
 		send all players title "&2And lastly..." with subtitle "?" for 5 seconds
 		wait 6 seconds
 		send all players title "&2You" with subtitle "&ffor playing :)" for 10 seconds
+		set {nomove} to false
 		
-
+on any move:
+	if {nomove} is true:
+		cancel event
 command /addbingo [<text>]:
 	trigger:
 		if {%player%.rank} is "mod":
@@ -618,7 +631,7 @@ on player move:
 on join:
 	{whitelisted} is true
 	{%player%.rank} is not "mod"
-	kick player due to "&2Minecraft &cQuest &f| &cThe server will open to the public shortly!"
+	kick player due to "&2Minecraft &cQuest &f| &cWe're preparing for the event, please refer to the github repo for more info! %nl%%nl%https://github.com/djog/minecraft_quest"
 command /allowplayers:
 	trigger:
 		set {whitelisted} to false
@@ -645,6 +658,43 @@ on inventory click:
 			cancel event
 			close player's inventory
 			make player execute command "sweden"
+	if name of event-inventory is "&2Minecraft &cQuest &f| §cNe§fder§9land":
+		cancel event
+		if index of event-slot = 23:
+			{%player%.rank} is "mod"
+			add 1 to {netherlands.count}
+			play sound "block.note_block.pling" at volume 1 at pitch 2 to player
+			broadcast "&2Minecraft &cQuest | &f+1 Point for The Netherlands. They now have %{netherlands.count}% points!" 
+
+		if index of event-slot = 21:
+			{%player%.rank} is "mod"
+			remove 1 from {netherlands.count}
+			play sound "block.note_block.pling" at volume 1 at pitch 0 to player
+			if {netherlands.count} is less than 0:
+				set {netherlands.count} to 0
+			broadcast "&2Minecraft &cQuest | &f-1 Point for The Netherlands. They now have %{netherlands.count}% points!" 
+
+		set slot 4 of current inventory to red stained glass pane named "§cCurrent points" with lore "%{netherlands.count}%"
+	
+	
+	if name of event-inventory is "&2Minecraft &cQuest &f| §9Sve§erige":
+		cancel event
+		if index of event-slot = 23:
+			{%player%.rank} is "mod"
+			add 1 to {sweden.count}
+			play sound "block.note_block.pling" at volume 1 at pitch 2 to player
+			broadcast "&2Minecraft &cQuest | &f+1 Point for Sweden. They now have %{sweden.count}% points!" 
+
+		if index of event-slot = 21:
+			{%player%.rank} is "mod"
+			remove 1 from {sweden.count}
+			play sound "block.note_block.pling" at volume 1 at pitch 0 to player
+			if {sweden.count} is less than 0:
+				set {sweden.count} to 0
+			broadcast "&2Minecraft &cQuest | &f-1 Point for Sweden. They now have %{sweden.count}% points!" 
+
+		set slot 4 of current inventory to red stained glass pane named "§cCurrent points" with lore "%{sweden.count}%"
+
 on join:
 	create bossbar titled "&2Minecraft &cQuest | &fIn-game" and id "bossbar" for all players with progress 100 with colors blue
 every 10 tick:
@@ -653,3 +703,38 @@ every 10 tick:
 	set health of all players to 10
 	loop all players:
 		set loop-player's food level to 20
+
+every tick:
+	loop all players:
+		if {%loop-player%.rank} is "mod":
+			set slot 7 of loop-player to red wool named "§cNe§fder§9land" with lore "Add or remove points"
+			set slot 8 of loop-player to blue wool named "§9Sve§erige" with lore "Add or remove points"
+			if {status} is "waiting":
+				set slot 0 of loop-player to green wool named "&eStart" with lore "Start the game"
+			else:
+				set slot 0 of loop-player to air
+
+on right click with red wool:
+	if {%player%.rank} is "mod":
+		cancel event
+		set {_gui} to a new chest inventory with 3 row with name "&2Minecraft &cQuest &f| §cNe§fder§9land"
+		set slot 4 of {_gui} to red stained glass pane named "§cCurrent points" with lore "%{netherlands.count}%"
+		set slot 23 of {_gui} to green wool named "Add point" with lore "Click me!"
+		set slot 21 of {_gui} to red wool named "Remove point" with lore "Click me!"
+		
+		open {_gui} to player		
+on right click with blue wool:
+	if {%player%.rank} is "mod":
+		cancel event
+		set {_gui} to a new chest inventory with 3 row with name "&2Minecraft &cQuest &f| §9Sve§erige"
+		set slot 4 of {_gui} to red stained glass pane named "§cCurrent points" with lore "%{sweden.count}%"
+		set slot 23 of {_gui} to green wool named "Add point" with lore "Click me!"
+		set slot 21 of {_gui} to red wool named "Remove point" with lore "Click me!"
+		
+		open {_gui} to player		
+on right click with green wool:
+	{status} is "waiting"
+	{clickedstart} is not true
+	{%player%.rank} is "mod"
+	execute console command "start"
+	set slot 0 of player to air
