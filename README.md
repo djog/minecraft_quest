@@ -121,7 +121,7 @@ Joshua     |NL    |.                 |Reserve teamcaptain
 Egon       |SW    |.                 |.
 .          |SW    |.                 |.
 .          |SW    |.                 |.
-Daan       |-     |`DaanDeBanaan`    |Moderator Netherlands
+Daan       |-     |`DannyDanDan_`    |Moderator Netherlands
 Christiaan |-     |`decommandpro`    |Moderator Sweden
 Richel     |-     |`richelbilderbeek`|Referee
 
