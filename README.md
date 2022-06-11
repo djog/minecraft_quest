@@ -42,7 +42,7 @@ From      |To      |What
 
  * +1: per bingo card objective
  * +5: per row/column/diagonal on bingo card 
- * +5: win the final battle
+ * +3: win the final battle
 
 ## Roles
 
