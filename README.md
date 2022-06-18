@@ -82,26 +82,20 @@ Click here to join the Discord server:
 
 ### Schedule
 
-#### Try-outs
-
-Day      |Quest                                                    |World en bingocard seed  |Server
----------|---------------------------------------------------------|-------------------------|-------------------------------------------------------
-5 march  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220305) |`20220305`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-
 #### Competition
 
-Day      |Quest                                                    |World en bingocard seed  |Server
----------|---------------------------------------------------------|-------------------------|-------------------------------------------------------
-11 june  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220611) |`20220611`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-18 june  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220618) |`20220618`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-25 june  |None, due to Midsommar (an important day in Sweden)      |`20220625`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-02 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220702) |`20220702`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-09 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220709) |`20220709`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-16 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220716) |`20220716`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-23 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220723) |`20220723`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-30 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220730) |`20220730`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-06 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220806) |`20220806`               |[home.daanschenkel.nl](home.daanschenkel.nl)
-13 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220813) |`20220813`               |[home.daanschenkel.nl](home.daanschenkel.nl)
+Day      |Quest                                                    |World en bingocard seed  |Server                                      |Score (N-S)|Winner
+---------|---------------------------------------------------------|-------------------------|--------------------------------------------|-----------|-------
+11 june  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220611) |`20220611`               |[home.daanschenkel.nl](home.daanschenkel.nl)|8-10       |Sweden
+18 june  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220618) |`20220618`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
+25 june  |None, due to Midsommar (an important day in Sweden)      |`20220625`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
+02 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220702) |`20220702`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
+09 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220709) |`20220709`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
+16 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220716) |`20220716`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
+23 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220723) |`20220723`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
+30 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220730) |`20220730`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
+06 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220806) |`20220806`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
+13 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220813) |`20220813`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
 
  * We use the `dev-version` of the bingocard
 
@@ -127,7 +121,7 @@ Richel     |-     |`richelbilderbeek`|Referee
 
 ### Servers
 
-Use 'Minecraft 1.18.1, stable'.
+Use 'Minecraft 1.18.2, stable'.
 
 ### Behavior
 
@@ -142,7 +136,7 @@ Use 'Minecraft 1.18.1, stable'.
 
 ### What are the settings?
 
- * Minecraft 1.18.1 (stable) (always the newest version)
+ * Minecraft 1.18.2 (stable) (always the newest version)
  * Survival mode
  * Easy mode
  * No command blocks
@@ -180,7 +174,6 @@ you can find those in the repository.
 
 ## Video's
 
-
  * First try-out (old): [YouTube](https://youtu.be/xq_MknF9lyY) [Download](http://richelbilderbeek.nl/minecraft_quest_20200531.mp4 )(31 may 2020, thanks Rijk van Putten)
  * Second testrun: [YouTube](https://youtu.be/8OzPmMhnrKQ) [Download](http://richelbilderbeek.nl/minecraft_quest_20200607.mp4) (7 june 2020, thanks Daan Schenkel)
 
@@ -189,6 +182,8 @@ you can find those in the repository.
  * [Minecraft Quest YouTube channel](https://www.youtube.com/channel/UCkhQIR-X6Xx11VRZV9co-lA)
 
 ## Screenshots
+
+![](pics/20220611.png)
 
 See [2020.md](2020.md) for screenshots of the first MCQ
 
