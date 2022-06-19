@@ -84,18 +84,18 @@ Click here to join the Discord server:
 
 #### Competition
 
-Day      |Quest                                                    |World en bingocard seed  |Server                                      |Score (N-S)|Winner
----------|---------------------------------------------------------|-------------------------|--------------------------------------------|-----------|-------
-11 june  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220611) |`20220611`               |[home.daanschenkel.nl](home.daanschenkel.nl)|8-10       |Sweden
-18 june  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220618) |`20220618`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
-25 june  |None, due to Midsommar (an important day in Sweden)      |`20220625`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
-02 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220702) |`20220702`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
-09 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220709) |`20220709`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
-16 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220716) |`20220716`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
-23 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220723) |`20220723`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
-30 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220730) |`20220730`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
-06 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220806) |`20220806`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
-13 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220813) |`20220813`               |[home.daanschenkel.nl](home.daanschenkel.nl)|.          |.
+Day      |Quest                                                    |World en bingocard seed  |Server                                                    |Score (N-S)|Winner
+---------|---------------------------------------------------------|-------------------------|----------------------------------------------------------|-----------|-----------
+11 june  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220611) |`20220611`               |[home.daanschenkel.nl](home.daanschenkel.nl)              |8-10       |Sweden
+18 june  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220618) |`20220618`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|10-2       |Netherlands
+25 june  |None, due to Midsommar (an important day in Sweden)      |.                        |.                                                         |.          |.
+02 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220702) |`20220702`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|.          |.
+09 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220709) |`20220709`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|.          |.
+16 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220716) |`20220716`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|.          |.
+23 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220723) |`20220723`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|.          |.
+30 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220730) |`20220730`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|.          |.
+06 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220806) |`20220806`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|.          |.
+13 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220813) |`20220813`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|.          |.
 
  * We use the `dev-version` of the bingocard
 
