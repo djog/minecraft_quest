@@ -155,9 +155,7 @@ Then you cannot participate
 
 ### I dont have Minecraft Java
 
-Then you cannot participate.
-
-We might be adding support for Bedrock, but we're not sure
+You can still participate! Ask someone on Discord for the bedrock credentials
 
 ### Whats the age limit?
 
