@@ -89,7 +89,7 @@ Day      |Quest                                                    |World en bin
 11 june  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220611) |`20220611`               |[home.daanschenkel.nl](home.daanschenkel.nl)              |8-10       |Sweden
 18 june  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220618) |`20220618`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|12-2       |Netherlands
 25 june  |None, due to Midsommar (an important day in Sweden)      |.                        |.                                                         |.          |.
-02 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220702) |`20220702`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|.          |.
+02 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220702) |`20220702`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|14-7       |Netherlands
 09 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220709) |`20220709`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|.          |.
 16 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220716) |`20220716`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|.          |.
 23 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220723) |`20220723`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|.          |.
