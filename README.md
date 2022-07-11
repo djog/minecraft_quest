@@ -181,6 +181,22 @@ you can find those in the repository.
 
 ## Screenshots
 
+### 2022-07-09
+
+![](pics/20220709/1.png)
+
+![](pics/20220709/2.png)
+
+![](pics/20220709/3.png)
+
+![](pics/20220709/4.png)
+
+![](pics/20220709/5.png)
+
+![](pics/20220709/6.png)
+
+![](pics/20220709/7.png)
+
 ### 2022-06-18
 
 ![](pics/20220618/1.png)
