@@ -55,8 +55,7 @@ A referee is invisible, can freely move around and cannot modify the world.
 
 ### Moderators
 
- * Daan : Team Nederland
- * Chris: Team Sweden
+ * Chris, Daan, Rohan, Youri
 
 The purpose of the moderators is to make the server run smoothly
 and that the game can be played fairly and with as little as possible.
@@ -65,8 +64,8 @@ A moderator is invisible, can freely move around and cannot modify the world.
 
 ### Teamcaptain
 
- * Rijk/Joshua: Team Netherlands
- * Egon: Team Sweden
+ * ?Rijk/?Joshua: Team Netherlands
+ * Egon/?Leonid: Team Sweden
 
 The purpose of the teamcaptains is to steer the team in working together.
 
@@ -129,7 +128,7 @@ Use 'Minecraft 1.18.2, stable'.
  * Teams both have half of the world.
  * We don't steal from our team and be respectful to our team members.
  * The usage of any (hacked) clients are strictly forbidden. 
-   The only clients that are allowed are fps boosters such as optifine. 
+   The only clients that are allowed are FPS boosters such as optifine. 
    NO waypoints, minimaps and such.
 
 ## FAQ
@@ -160,6 +159,20 @@ You can still participate! Ask someone on Discord for the bedrock credentials
 ### Whats the age limit?
 
 From 8 to (and including) 18 years.
+
+### I did something on the bingo card. What do I do?
+
+In Discord, talk to the referee. 
+He/she'll take a look at your inventory and/or your surroundings.
+
+### Can I use my [resources] after I scored a point with them?
+
+Yes! If, for example, there was an objective to collect 16 carrots,
+you can eat those after a referee has seen you did.
+
+### A team member and I **together** have collected enough [resources]. Does that count?
+
+No, the resources must be in the same inventory.
 
 ### I have a question
 
