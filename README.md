@@ -194,11 +194,11 @@ you can find those in the repository.
 
 ## Screenshots
 
-![](pics/20220616_1.png)
+### 2022-07-23
 
-![](pics/20220616_2.png)
+![](pics/20220723/1.png)
 
-![](pics/20220616_3.png)
+![](pics/20220723/2.png)
 
 ### 2022-07-09
 
@@ -229,6 +229,12 @@ you can find those in the repository.
 ### 2022-06-11
 
 ![](pics/20220611.png)
+
+![](pics/20220616_1.png)
+
+![](pics/20220616_2.png)
+
+![](pics/20220616_3.png)
 
 See [2020.md](2020.md) for screenshots of the first MCQ
 
