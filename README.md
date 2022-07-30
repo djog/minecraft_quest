@@ -92,9 +92,9 @@ Day      |Quest                                                    |World en bin
 09 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220709) |`20220709`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|21-4       |Netherlands
 16 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220716) |`20220716`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|10-3       |Netherlands
 23 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220723) |`20220723`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|15.5-4.5   |Netherlands
-30 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220730) |`20220730`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|.          |.
-06 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220806) |`20220806`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|.          |.
-13 august|[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220813) |`20220813`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|.          |.
+30 july  |On Discord                                               |`20220730`               |Bedrock: `images-done.at.playit.gg:24298`, Java: `images-done.at.playit.gg` |22-5       |Netherlands
+06 august|On Discord                                               |`20220806`               |Bedrock: `images-done.at.playit.gg:24298`, Java: `images-done.at.playit.gg` |.          |.
+13 august|On Discord                                               |`20220813`               |Bedrock: `images-done.at.playit.gg:24298`, Java: `images-done.at.playit.gg` |.          |.
 
  * We use the `dev-version` of the bingocard
 
