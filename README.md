@@ -93,8 +93,8 @@ Day      |Quest                                                    |World en bin
 16 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220716) |`20220716`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|10-3       |Netherlands
 23 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220723) |`20220723`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)|15.5-4.5   |Netherlands
 30 july  |On Discord                                               |`20220730`               |Bedrock: `images-done.at.playit.gg:24298`, Java: `images-done.at.playit.gg` |22-5       |Netherlands
-06 august|On Discord                                               |`20220806`               |Bedrock: `images-done.at.playit.gg:24298`, Java: `images-done.at.playit.gg` |.          |.
-13 august|On Discord                                               |`20220813`               |Bedrock: `images-done.at.playit.gg:24298`, Java: `images-done.at.playit.gg` |.          |.
+06 august|On Discord                                               |`20220806`               |Bedrock: `bedrock.mcquest.nl:24298`, Java: `play.mcquest.nl` |.          |.
+13 august|On Discord                                               |`20220813`               |Bedrock: `bedrock.mcquest.nl:24298`, Java: `play.mcquest.nl` |.          |.
 
  * We use the `dev-version` of the bingocard
 
@@ -115,12 +115,13 @@ Egon       |SW    |.                 |.
 .          |SW    |.                 |.
 .          |SW    |.                 |.
 Daan       |-     |`DannyDanDan_`    |Moderator Netherlands
+Youri      |-     |`ISYOI`           |Moderator Netherlands/Backup Player
 Christiaan |-     |`decommandpro`    |Moderator Sweden
 Richel     |-     |`richelbilderbeek`|Referee
 
 ### Servers
 
-Use 'Minecraft 1.18.2, stable'.
+Use ['Minecraft 1.18.2, optifine'](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar).
 
 ### Behavior
 
@@ -135,7 +136,7 @@ Use 'Minecraft 1.18.2, stable'.
 
 ### What are the settings?
 
- * Minecraft 1.18.2 (stable) (always the newest version)
+ * Minecraft 1.18.2 (stable)
  * Survival mode
  * Easy mode
  * No command blocks
@@ -150,11 +151,11 @@ Its intentionally so you have to work with your team.
 
 ### I dont have Minecraft
 
-Then you cannot participate
+Then you cannot participate 
 
-### I dont have Minecraft Java
+### I dont have Minecraft Java but I have bedrock
 
-You can still participate! Ask someone on Discord for the bedrock credentials
+You can still participate! You can join the mcquest server on any bedrock platform.
 
 ### Whats the age limit?
 
@@ -180,13 +181,13 @@ Join the Discord or make an issue on GitHub.
 
 ### How does the server work?
 
-We're using multiple plugins made by [Daan](https://github.com/daanschenkel), 
+We're using multiple plugins made by [Daan and Youri](https://github.com/daanschenkel), 
 you can find those in the repository.
 
 ## Video's
-
  * First try-out (old): [YouTube](https://youtu.be/xq_MknF9lyY) [Download](http://richelbilderbeek.nl/minecraft_quest_20200531.mp4 )(31 may 2020, thanks Rijk van Putten)
- * Second testrun: [YouTube](https://youtu.be/8OzPmMhnrKQ) [Download](http://richelbilderbeek.nl/minecraft_quest_20200607.mp4) (7 june 2020, thanks Daan Schenkel)
+ * Second testrun (old): [YouTube](https://youtu.be/8OzPmMhnrKQ) [Download](http://richelbilderbeek.nl/minecraft_quest_20200607.mp4) (7 june 2020, thanks Daan Schenkel)
+ * Look around (new): [YouTube](https://www.youtube.com/watch?v=HaId_SyQmCk) [Download](http://richelbilderbeek.nl/minecraft_quest_20200607.mp4) (7 june 2020, thanks Daan Schenkel)
 
 ### Links
 
