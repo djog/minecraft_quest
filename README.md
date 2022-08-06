@@ -18,11 +18,11 @@ in which a team tries to score as much points as possible.
 > Two team members working together
 
 The tasks to get points are known beforehand,
-in the form of a bingocard, e.g. [here](https://mcquest.daanschenkel.nl/bingokaart.html),
+in the form of a bingocard posted on Discord,
 with task such as 'Collect 10 apples', 'Kill
 5 zombies', etc.
 
-![](pics/20200614/bingo_team_rood.png)
+![](pics/mcq_discord_bingocard)
 
 > An example bingo card
 
@@ -96,8 +96,6 @@ Day      |Quest                                                    |World en bin
 06 august|On Discord                                               |`20220806`               |Bedrock: `bedrock.mcquest.nl:24298`, Java: `play.mcquest.nl` |.          |.
 13 august|On Discord                                               |`20220813`               |Bedrock: `bedrock.mcquest.nl:24298`, Java: `play.mcquest.nl` |.          |.
 
- * We use the `dev-version` of the bingocard
-
 ### Teams
 
 There are 2 teams: Netherlands and Sweden
@@ -149,11 +147,11 @@ Its intentionally so you have to work with your team.
 
 16.
 
-### I dont have Minecraft
+### I don't have Minecraft
 
 Then you cannot participate 
 
-### I dont have Minecraft Java but I have bedrock
+### I don't have Minecraft Java but I do have Bedrock
 
 You can still participate! You can join the mcquest server on any bedrock platform.
 
@@ -163,7 +161,8 @@ From 8 to (and including) 18 years.
 
 ### I did something on the bingo card. What do I do?
 
-In Discord, talk to the referee. 
+The Discord bingo cards detect this automatically.
+If not, talk to the referee.
 He/she'll take a look at your inventory and/or your surroundings.
 
 ### Can I use my [resources] after I scored a point with them?
@@ -185,9 +184,12 @@ We're using multiple plugins made by [Daan and Youri](https://github.com/daansch
 you can find those in the repository.
 
 ## Video's
- * First try-out (old): [YouTube](https://youtu.be/xq_MknF9lyY) [Download](http://richelbilderbeek.nl/minecraft_quest_20200531.mp4 )(31 may 2020, thanks Rijk van Putten)
- * Second testrun (old): [YouTube](https://youtu.be/8OzPmMhnrKQ) [Download](http://richelbilderbeek.nl/minecraft_quest_20200607.mp4) (7 june 2020, thanks Daan Schenkel)
- * Look around (new): [YouTube](https://www.youtube.com/watch?v=HaId_SyQmCk) [Download](http://richelbilderbeek.nl/minecraft_quest_20200607.mp4) (7 june 2020, thanks Daan Schenkel)
+
+Newest video's at at the top.
+
+ * 2022-08-05: Look around: [YouTube](https://www.youtube.com/watch?v=HaId_SyQmCk) [Download](http://richelbilderbeek.nl/minecraft_quest_20200607.mp4) (thanks Daan Schenkel)
+ * 2020-07-07: Second testrun: [YouTube](https://youtu.be/8OzPmMhnrKQ) [Download](http://richelbilderbeek.nl/minecraft_quest_20200607.mp4) (thanks Daan Schenkel)
+ * 2022-05-31: First try-out: [YouTube](https://youtu.be/xq_MknF9lyY) [Download](http://richelbilderbeek.nl/minecraft_quest_20200531.mp4 )(thanks Rijk van Putten)
 
 ### Links
 
