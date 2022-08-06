@@ -22,7 +22,7 @@ in the form of a bingocard posted on Discord,
 with task such as 'Collect 10 apples', 'Kill
 5 zombies', etc.
 
-![](pics/mcq_discord_bingocard)
+![](pics/mcq_discord_bingocard.png)
 
 > An example bingo card
 
