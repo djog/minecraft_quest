@@ -44,33 +44,6 @@ From      |To      |What
  * +5: per row/column/diagonal on bingo card 
  * +3: win the final battle
 
-## Roles
-
-### Referee
-
- * Richel
-
-The purpose of a referee is to ensure the game is played fairly.
-A referee is invisible, can freely move around and cannot modify the world.
-
-### Moderators
-
- * Chris, Daan, Rohan, Youri
-
-The purpose of the moderators is to make the server run smoothly
-and that the game can be played fairly and with as little as possible.
-
-A moderator is invisible, can freely move around and cannot modify the world.
-
-### Teamcaptain
-
- * Jonas/Peter/Rijk/Youri: Team Netherlands
- * None (feel encouraged to take up this role!): Team Sweden
-
-The purpose of the teamcaptains is to steer the team in working together.
-
-A team captain is a regular player.
-
 ## How
 
 ### Join
@@ -96,6 +69,8 @@ Day      |Quest                                                    |World en bin
 06 august|On Discord                                               |`20220806`               |Bedrock: `bedrock.mcquest.nl:24298`, Java: `play.mcquest.nl` |.          |.
 13 august|On Discord                                               |`20220813`               |Bedrock: `bedrock.mcquest.nl:24298`, Java: `play.mcquest.nl` |.          |.
 
+## Players
+
 ### Teams
 
 There are 2 teams: Netherlands and Sweden
@@ -116,6 +91,39 @@ Daan       |-     |`DannyDanDan_`    |Moderator Netherlands
 Youri      |-     |`ISYOI`           |Moderator Netherlands/Backup Player
 Christiaan |-     |`decommandpro`    |Moderator Sweden
 Richel     |-     |`richelbilderbeek`|Referee
+
+## Roles
+
+Minecraft Quest is run by a team of volunteers
+
+![](pics/team.png)
+
+> The Minecraft Quest team
+
+### Referee
+
+ * Richel
+
+The purpose of a referee is to ensure the game is played fairly.
+A referee is invisible, can freely move around and cannot modify the world.
+
+### Moderators
+
+ * Chris, Daan, Rohan, Youri
+
+The purpose of the moderators is to make the server run smoothly
+and that the game can be played fairly and with as little as possible.
+
+A moderator is invisible, can freely move around and cannot modify the world.
+
+### Teamcaptain
+
+ * Jonas/Peter/Rijk/Youri: Team Netherlands
+ * None (feel encouraged to take up this role!): Team Sweden
+
+The purpose of the teamcaptains is to steer the team in working together.
+
+A team captain is a regular player.
 
 ### Servers
 
