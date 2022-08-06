@@ -64,8 +64,8 @@ A moderator is invisible, can freely move around and cannot modify the world.
 
 ### Teamcaptain
 
- * ?Rijk/?Joshua: Team Netherlands
- * Egon/?Leonid: Team Sweden
+ * Jonas/Peter/Rijk/Youri: Team Netherlands
+ * None (feel encouraged to take up this role!): Team Sweden
 
 The purpose of the teamcaptains is to steer the team in working together.
 
