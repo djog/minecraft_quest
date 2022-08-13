@@ -67,7 +67,7 @@ Day      |Quest                                                    |World en bin
 23 july  |[Easy](https://minecraftbingo.com/?s=2-0-0-dev_20220723) |`20220723`               |[minecraftquest.joinjava.net](minecraftquest.joinjava.net)                  |15.5-4.5   |Netherlands
 30 july  |On Discord                                               |`20220730`               |Bedrock: `images-done.at.playit.gg:24298`, Java: `images-done.at.playit.gg` |22-5       |Netherlands
 06 august|On Discord                                               |`20220806`               |Bedrock: `bedrock.mcquest.nl:24298`, Java: `play.mcquest.nl`                |23-6       |Netherlands
-13 august|On Discord                                               |`20220813`               |Bedrock: `bedrock.mcquest.nl:24298`, Java: `play.mcquest.nl`                |.          |.
+13 august|On Discord                                               |`20220813`               |Bedrock: `bedrock.mcquest.nl:24298`, Java: `play.mcquest.nl`                |11-8       |Netherlands
 
 ## Players
 
