@@ -48,10 +48,6 @@ From      |To      |What
 
 ### Join
 
-Click here to join the Discord server:
-
-[![Discord](https://img.shields.io/discord/934473154074644480?label=DISCORD&logo=discord&style=for-the-badge)](https://discord.gg/88evMPhAaN)
-
 ### Schedule
 
 #### Competition
