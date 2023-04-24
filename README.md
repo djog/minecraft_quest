@@ -90,7 +90,7 @@ Richel     |-     |`richelbilderbeek`|Referee
 
 ## Roles
 
-Minecraft Quest is run by a team of volunteers
+Minecraft Quest is run by a team of volunteers.
 
 ![](pics/team.png)
 
